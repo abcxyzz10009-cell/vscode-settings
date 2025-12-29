@@ -1,0 +1,10 @@
+ERROR:9:package com.girlkun.network.io does not exist
+ERROR:97:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.npc.specialnpc.MagicTree
+ERROR:99:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.npc.specialnpc.MagicTree
+ERROR:129:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.npc.specialnpc.MagicTree
+ERROR:131:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.npc.specialnpc.MagicTree
+ERROR:140:cannot find symbol\n  symbol\d   method setIndexMenu(int)\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:142:cannot find symbol\n  symbol\d   method setIndexMenu(int)\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:147:cannot find symbol\n  symbol\d   method setIndexMenu(int)\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:165:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.npc.specialnpc.MagicTree
+ERROR:167:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.npc.specialnpc.MagicTree

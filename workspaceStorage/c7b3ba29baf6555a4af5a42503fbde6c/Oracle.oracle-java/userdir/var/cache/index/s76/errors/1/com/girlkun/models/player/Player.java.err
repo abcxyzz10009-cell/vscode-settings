@@ -1,0 +1,11 @@
+ERROR:32:package com.girlkun.network.io does not exist
+ERROR:169:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.player.Player
+ERROR:186:cannot find symbol\n  symbol\d   method isBan()\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:220:cannot find symbol\n  symbol\d   method isGotoFuture()\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:220:cannot find symbol\n  symbol\d   method getLastTimeGoToFuture()\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:222:cannot find symbol\n  symbol\d   method setGotoFuture(boolean)\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:224:cannot find symbol\n  symbol\d   method isGoToBDKB()\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:224:cannot find symbol\n  symbol\d   method getLastTimeGoToBDKB()\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:226:cannot find symbol\n  symbol\d   method setGoToBDKB(boolean)\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:274:cannot find symbol\n  symbol\d   method getLastTimeBan()\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:379:cannot find symbol\n  symbol\d   method isHoldBlackBall()\n  location\d variable iDMark of type com.girlkun.models.player.IDMark

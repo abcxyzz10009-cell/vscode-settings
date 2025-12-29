@@ -1,0 +1,3 @@
+ERROR:14:package com.girlkun.network.io does not exist
+ERROR:259:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.MapService
+ERROR:261:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.MapService

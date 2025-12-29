@@ -1,0 +1,5 @@
+ERROR:7:package com.girlkun.network.io does not exist
+ERROR:45:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.IntrinsicService
+ERROR:47:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.IntrinsicService
+ERROR:59:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.IntrinsicService
+ERROR:61:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.IntrinsicService

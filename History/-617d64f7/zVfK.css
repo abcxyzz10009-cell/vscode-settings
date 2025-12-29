@@ -1,0 +1,10 @@
+h2{
+    opacity: 0;
+    display: none;
+    visibility: hidden;
+}
+input:checked ~ img{
+    /* display: none; */
+    visibility: hidden;
+    /* opacity: 0; */
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="_/src"/>
+	<classpathentry kind="src" path="_/backup/src"/>
+	<classpathentry kind="lib" path="c:/Users/ADMIN/Downloads/mad/ArrietyV2/Arriety/CRBO_ARRIETY/Arriety/arriety_beo/arriety/lib/rxjava-3.1.6.jar"/>
+	<classpathentry kind="lib" path="c:/Users/ADMIN/Downloads/mad/ArrietyV2/Arriety/CRBO_ARRIETY/Arriety/arriety_beo/arriety/lib/lombok.jar"/>
+	<classpathentry kind="lib" path="c:/Users/ADMIN/Downloads/mad/ArrietyV2/Arriety/CRBO_ARRIETY/Arriety/arriety_beo/arriety/lib/GirlkunNetwork.jar"/>
+	<classpathentry kind="lib" path="c:/Users/ADMIN/Downloads/mad/ArrietyV2/Arriety/CRBO_ARRIETY/Arriety/arriety_beo/arriety/lib/girlkundb-1.0.0.jar" sourcepath="C:/Users/ADMIN/.m2/repository/com/zaxxer/HikariCP/3.1.0/HikariCP-3.1.0-sources.jar"/>
+	<classpathentry kind="lib" path="c:/Users/ADMIN/Downloads/mad/ArrietyV2/Arriety/CRBO_ARRIETY/Arriety/arriety_beo/arriety/lib/okhttp-3.0.0.jar"/>
+	<classpathentry kind="lib" path="c:/Users/ADMIN/Downloads/mad/ArrietyV2/Arriety/CRBO_ARRIETY/Arriety/arriety_beo/arriety/lib/apache-commons-lang.jar"/>
+	<classpathentry kind="lib" path="c:/Users/ADMIN/Downloads/mad/ArrietyV2/Arriety/CRBO_ARRIETY/Arriety/arriety_beo/arriety/lib/json_simple-1.1.jar"/>
+	<classpathentry kind="lib" path="c:/Users/ADMIN/Downloads/mad/ArrietyV2/Arriety/CRBO_ARRIETY/Arriety/arriety_beo/arriety/lib/okio-1.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

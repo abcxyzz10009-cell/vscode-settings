@@ -1,0 +1,37 @@
+/* nền mờ */
+.modal {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.5);
+    z-index: 1000;
+}
+
+/* khung modal */
+.modal-content {
+    background: #fff;
+    width: 60%;
+    max-height: 80vh;        /* KHÓA chiều cao */
+    margin: 10vh auto;
+    padding: 20px;
+    border-radius: 8px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+/* nút X */
+.close {
+    position: absolute;
+    right: 15px;
+    top: 10px;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+/* phần nội dung được scroll */
+.terms-text {
+    margin-top: 15px;
+    overflow-y: auto;       /* CHO PHÉP LĂN CHUỘT */
+    flex: 1;                /* chiếm phần còn lại */
+}

@@ -1,0 +1,6 @@
+ERROR:8:package com.girlkun.network.io does not exist
+ERROR:38:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.NpcService
+ERROR:40:cannot find symbol\n  symbol\d   method setIndexMenu(int)\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:41:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.NpcService
+ERROR:59:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.NpcService
+ERROR:61:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.NpcService

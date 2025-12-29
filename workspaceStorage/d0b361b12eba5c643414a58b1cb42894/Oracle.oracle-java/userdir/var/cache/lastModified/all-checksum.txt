@@ -1,0 +1,15 @@
+platform=1765243672431
+cluster.platform=1765243672431
+cluster.ide=1765243669809
+cluster.extide=1765243667958
+cluster.webcommon=1765243673047
+cluster.java=1765243671395
+cluster.extra=1765243668745
+cluster.nbcode=1765243671584
+user=1766654043514
+crc=39
+locale=en
+branding=nbcode
+java.version=17.0.16
+java.vm.version=17.0.16+12-LTS-247
+netbeans.home=c:\Users\ADMIN\.vscode\extensions\oracle.oracle-java-25.0.0\nbcode\platform

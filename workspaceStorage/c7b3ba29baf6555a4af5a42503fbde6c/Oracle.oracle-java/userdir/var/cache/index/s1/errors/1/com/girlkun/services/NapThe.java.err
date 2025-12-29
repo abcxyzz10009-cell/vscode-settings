@@ -1,0 +1,20 @@
+ERROR:7:package org.json.simple does not exist
+ERROR:8:package org.json.simple does not exist
+ERROR:9:package okhttp3 does not exist
+ERROR:10:package okhttp3 does not exist
+ERROR:11:package okhttp3 does not exist
+ERROR:12:package okhttp3 does not exist
+ERROR:13:package okhttp3 does not exist
+ERROR:37:cannot find symbol\n  symbol\d   class OkHttpClient\n  location\d class com.girlkun.services.NapThe
+ERROR:37:cannot find symbol\n  symbol\d   class OkHttpClient\n  location\d class com.girlkun.services.NapThe
+ERROR:39:cannot find symbol\n  symbol\d   class MediaType\n  location\d class com.girlkun.services.NapThe
+ERROR:39:cannot find symbol\n  symbol\d   variable MediaType\n  location\d class com.girlkun.services.NapThe
+ERROR:40:cannot find symbol\n  symbol\d   class RequestBody\n  location\d class com.girlkun.services.NapThe
+ERROR:40:cannot find symbol\n  symbol\d   variable MultipartBody\n  location\d class com.girlkun.services.NapThe
+ERROR:40:package MultipartBody does not exist
+ERROR:51:cannot find symbol\n  symbol\d   class Request\n  location\d class com.girlkun.services.NapThe
+ERROR:51:package Request does not exist
+ERROR:57:package okhttp3 does not exist
+ERROR:61:cannot find symbol\n  symbol\d   variable JSONValue\n  location\d class com.girlkun.services.NapThe
+ERROR:62:cannot find symbol\n  symbol\d   class JSONObject\n  location\d class com.girlkun.services.NapThe
+ERROR:62:cannot find symbol\n  symbol\d   class JSONObject\n  location\d class com.girlkun.services.NapThe

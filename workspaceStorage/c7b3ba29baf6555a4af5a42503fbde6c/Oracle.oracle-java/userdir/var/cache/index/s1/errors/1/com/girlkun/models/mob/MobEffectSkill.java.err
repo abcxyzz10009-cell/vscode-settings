@@ -1,0 +1,11 @@
+ERROR:3:package com.girlkun.network.io does not exist
+ERROR:50:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.mob.MobEffectSkill
+ERROR:52:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.mob.MobEffectSkill
+ERROR:74:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.mob.MobEffectSkill
+ERROR:76:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.mob.MobEffectSkill
+ERROR:99:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.mob.MobEffectSkill
+ERROR:101:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.mob.MobEffectSkill
+ERROR:124:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.mob.MobEffectSkill
+ERROR:126:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.mob.MobEffectSkill
+ERROR:143:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.mob.MobEffectSkill
+ERROR:146:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.mob.MobEffectSkill

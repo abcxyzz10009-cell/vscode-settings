@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE attributes PUBLIC "-//NetBeans//DTD DefaultAttributes 1.0//EN" "http://www.netbeans.org/dtds/attributes-1_0.dtd">
+<attributes version="1.0">
+    <fileobject name="C:|Users|ADMIN|Downloads|mad|ArrietyV2|Arriety|CRBO_ARRIETY|Arriety|arriety_beo|arriety|backup|src">
+        <attr name="register_root" boolvalue="false"/>
+        <attr name="single_file_vm_options" stringvalue=""/>
+    </fileobject>
+    <fileobject name="C:|Users|ADMIN|Downloads|mad|ArrietyV2|Arriety|CRBO_ARRIETY|Arriety|arriety_beo|arriety|backup|src|com|girlkun|jdbc|daos">
+        <attr name="register_root" boolvalue="false"/>
+        <attr name="single_file_vm_options" stringvalue=""/>
+    </fileobject>
+    <fileobject name="C:|Users|ADMIN|Downloads|mad|ArrietyV2|Arriety|CRBO_ARRIETY|Arriety|arriety_beo|arriety|backup|src|com|girlkun|models|pvp_old">
+        <attr name="register_root" boolvalue="false"/>
+        <attr name="single_file_vm_options" stringvalue=""/>
+    </fileobject>
+    <fileobject name="C:|Users|ADMIN|Downloads|mad|ArrietyV2|Arriety|CRBO_ARRIETY|Arriety|arriety_beo|arriety|src">
+        <attr name="register_root" boolvalue="false"/>
+        <attr name="single_file_vm_options" stringvalue=""/>
+    </fileobject>
+    <fileobject name="C:|Users|ADMIN|Downloads|mad|ArrietyV2|Arriety|CRBO_ARRIETY|Arriety|arriety_beo|arriety|src|com|girlkun|models|pvp_old">
+        <attr name="register_root" boolvalue="false"/>
+        <attr name="single_file_vm_options" stringvalue=""/>
+    </fileobject>
+</attributes>

@@ -1,0 +1,6 @@
+ERROR:4:package com.girlkun.network.io does not exist
+ERROR:58:cannot find symbol\n  symbol\d   method getLastTimeChatGlobal()\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:62:cannot find symbol\n  symbol\d   method setLastTimeChatGlobal(long)\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:69:cannot find symbol\n  symbol\d   method getLastTimeChatGlobal()\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:104:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.ChatGlobalService
+ERROR:106:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.ChatGlobalService

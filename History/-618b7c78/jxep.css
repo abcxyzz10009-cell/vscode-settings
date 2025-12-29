@@ -1,0 +1,10 @@
+/* style có thể viết trong head của html */
+
+/* link rel  */
+<head>
+    <tytle>
+    h1{
+        color: blue;
+    }
+    </tytle>
+</head>

@@ -1,0 +1,10 @@
+ERROR:14:package com.girlkun.network.io does not exist
+ERROR:216:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.map.Zone
+ERROR:218:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.map.Zone
+ERROR:405:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.map.Zone
+ERROR:407:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.map.Zone
+ERROR:434:cannot find symbol\n  symbol\d   method getIdSpaceShip()\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:458:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.map.Zone
+ERROR:472:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.map.Zone
+ERROR:474:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.map.Zone
+ERROR:562:cannot find symbol\n  symbol\d   method getIdSpaceShip()\n  location\d variable iDMark of type com.girlkun.models.player.IDMark

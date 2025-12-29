@@ -1,0 +1,9 @@
+{
+  "redhat.telemetry.enabled": true,
+  "jdk.telemetry.enabled": true,
+  "workbench.secondarySideBar.defaultVisibility": "hidden",
+  "editor.minimap.enabled": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.formatOnSave": true
+}

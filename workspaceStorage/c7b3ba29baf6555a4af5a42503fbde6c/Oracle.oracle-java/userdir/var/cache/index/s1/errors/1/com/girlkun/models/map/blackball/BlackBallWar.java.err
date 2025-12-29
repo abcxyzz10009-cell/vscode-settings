@@ -1,0 +1,14 @@
+ERROR:86:cannot find symbol\n  symbol\d   method isHoldBlackBall()\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:87:cannot find symbol\n  symbol\d   method setHoldBlackBall(boolean)\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:89:cannot find symbol\n  symbol\d   method getTempIdBlackBallHold()\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:93:cannot find symbol\n  symbol\d   method setTempIdBlackBallHold(int)\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:114:cannot find symbol\n  symbol\d   method isHoldBlackBall()\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:115:cannot find symbol\n  symbol\d   method getLastTimeHoldBlackBall()\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:119:cannot find symbol\n  symbol\d   method getLastTimeNotifyTimeHoldBlackBall()\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:121:cannot find symbol\n  symbol\d   method getLastTimeHoldBlackBall()\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:123:cannot find symbol\n  symbol\d   method setLastTimeNotifyTimeHoldBlackBall(long)\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:130:cannot find symbol\n  symbol\d   method isHoldBlackBall()\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:142:cannot find symbol\n  symbol\d   method getTempIdBlackBallHold()\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:225:cannot find symbol\n  symbol\d   method setHoldBlackBall(boolean)\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:226:cannot find symbol\n  symbol\d   method setTempIdBlackBallHold(short)\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:227:cannot find symbol\n  symbol\d   method setLastTimeHoldBlackBall(long)\n  location\d variable iDMark of type com.girlkun.models.player.IDMark

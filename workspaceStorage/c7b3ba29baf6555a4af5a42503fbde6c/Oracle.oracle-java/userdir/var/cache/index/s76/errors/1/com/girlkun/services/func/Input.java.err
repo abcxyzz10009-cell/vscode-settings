@@ -1,0 +1,26 @@
+ERROR:3:package com.girlkun.database does not exist
+ERROR:11:package com.girlkun.network.io does not exist
+ERROR:12:package com.girlkun.network.session does not exist
+ERROR:62:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.Input
+ERROR:208:cannot find symbol\n  symbol\d   class ISession\n  location\d class com.girlkun.services.func.Input
+ERROR:68:cannot find symbol\n  symbol\d   method getTypeInput()\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:106:cannot find symbol\n  symbol\d   variable GirlkunDB\n  location\d class com.girlkun.services.func.Input
+ERROR:110:cannot find symbol\n  symbol\d   variable GirlkunDB\n  location\d class com.girlkun.services.func.Input
+ERROR:124:cannot find symbol\n  symbol\d   variable GirlkunDB\n  location\d class com.girlkun.services.func.Input
+ERROR:135:cannot find symbol\n  symbol\d   variable GirlkunDB\n  location\d class com.girlkun.services.func.Input
+ERROR:175:cannot find symbol\n  symbol\d   variable PlayerDAO\n  location\d class com.girlkun.services.func.Input
+ERROR:192:cannot find symbol\n  symbol\d   method setTypeInput(int)\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:193:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.Input
+ERROR:195:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.Input
+ERROR:209:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.Input
+ERROR:211:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.Input
+ERROR:225:reference to createForm is ambiguous\n  both method createForm(com.girlkun.models.player.Player,int,java.lang.String,com.girlkun.services.func.Input.SubInput...) in com.girlkun.services.func.Input and method createForm(java.lang.Object,int,java.lang.String,com.girlkun.services.func.Input.SubInput...) in com.girlkun.services.func.Input match
+ERROR:231:reference to createForm is ambiguous\n  both method createForm(com.girlkun.models.player.Player,int,java.lang.String,com.girlkun.services.func.Input.SubInput...) in com.girlkun.services.func.Input and method createForm(java.lang.Object,int,java.lang.String,com.girlkun.services.func.Input.SubInput...) in com.girlkun.services.func.Input match
+ERROR:235:reference to createForm is ambiguous\n  both method createForm(com.girlkun.models.player.Player,int,java.lang.String,com.girlkun.services.func.Input.SubInput...) in com.girlkun.services.func.Input and method createForm(java.lang.Object,int,java.lang.String,com.girlkun.services.func.Input.SubInput...) in com.girlkun.services.func.Input match
+ERROR:239:reference to createForm is ambiguous\n  both method createForm(com.girlkun.models.player.Player,int,java.lang.String,com.girlkun.services.func.Input.SubInput...) in com.girlkun.services.func.Input and method createForm(java.lang.Object,int,java.lang.String,com.girlkun.services.func.Input.SubInput...) in com.girlkun.services.func.Input match
+ERROR:245:reference to createForm is ambiguous\n  both method createForm(com.girlkun.models.player.Player,int,java.lang.String,com.girlkun.services.func.Input.SubInput...) in com.girlkun.services.func.Input and method createForm(java.lang.Object,int,java.lang.String,com.girlkun.services.func.Input.SubInput...) in com.girlkun.services.func.Input match
+ERROR:250:reference to createForm is ambiguous\n  both method createForm(com.girlkun.models.player.Player,int,java.lang.String,com.girlkun.services.func.Input.SubInput...) in com.girlkun.services.func.Input and method createForm(java.lang.Object,int,java.lang.String,com.girlkun.services.func.Input.SubInput...) in com.girlkun.services.func.Input match
+ERROR:261:reference to createForm is ambiguous\n  both method createForm(com.girlkun.models.player.Player,int,java.lang.String,com.girlkun.services.func.Input.SubInput...) in com.girlkun.services.func.Input and method createForm(java.lang.Object,int,java.lang.String,com.girlkun.services.func.Input.SubInput...) in com.girlkun.services.func.Input match
+ERROR:266:reference to createForm is ambiguous\n  both method createForm(com.girlkun.models.player.Player,int,java.lang.String,com.girlkun.services.func.Input.SubInput...) in com.girlkun.services.func.Input and method createForm(java.lang.Object,int,java.lang.String,com.girlkun.services.func.Input.SubInput...) in com.girlkun.services.func.Input match
+ERROR:270:reference to createForm is ambiguous\n  both method createForm(com.girlkun.models.player.Player,int,java.lang.String,com.girlkun.services.func.Input.SubInput...) in com.girlkun.services.func.Input and method createForm(java.lang.Object,int,java.lang.String,com.girlkun.services.func.Input.SubInput...) in com.girlkun.services.func.Input match
+ERROR:274:reference to createForm is ambiguous\n  both method createForm(com.girlkun.models.player.Player,int,java.lang.String,com.girlkun.services.func.Input.SubInput...) in com.girlkun.services.func.Input and method createForm(java.lang.Object,int,java.lang.String,com.girlkun.services.func.Input.SubInput...) in com.girlkun.services.func.Input match

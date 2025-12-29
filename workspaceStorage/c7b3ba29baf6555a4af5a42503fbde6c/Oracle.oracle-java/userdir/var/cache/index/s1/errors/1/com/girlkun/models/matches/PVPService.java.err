@@ -1,0 +1,13 @@
+ERROR:8:package com.girlkun.network.io does not exist
+ERROR:41:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.matches.PVPService
+ERROR:69:cannot find symbol\n  symbol\d   method setIdPlayThachDau(long)\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:80:cannot find symbol\n  symbol\d   method getIdPlayThachDau()\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:99:cannot find symbol\n  symbol\d   method setIdPlayThachDau(long)\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:100:cannot find symbol\n  symbol\d   method setGoldThachDau(int)\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:103:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.matches.PVPService
+ERROR:105:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.matches.PVPService
+ERROR:120:cannot find symbol\n  symbol\d   method getIdPlayThachDau()\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:130:cannot find symbol\n  symbol\d   method getGoldThachDau()\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:151:cannot find symbol\n  symbol\d   method setIdEnemy(long)\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:157:cannot find symbol\n  symbol\d   method getIdEnemy()\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:55:exception java.io.IOException is never thrown in body of corresponding try statement

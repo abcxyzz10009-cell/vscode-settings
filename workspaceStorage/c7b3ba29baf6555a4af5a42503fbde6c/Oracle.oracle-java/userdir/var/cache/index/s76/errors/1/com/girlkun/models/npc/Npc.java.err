@@ -1,0 +1,15 @@
+ERROR:8:package com.girlkun.network.io does not exist
+ERROR:56:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.npc.Npc
+ERROR:58:cannot find symbol\n  symbol\d   method setIndexMenu(int)\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:59:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.npc.Npc
+ERROR:75:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.npc.Npc
+ERROR:77:cannot find symbol\n  symbol\d   method setIndexMenu(int)\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:78:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.npc.Npc
+ERROR:95:cannot find symbol\n  symbol\d   method setIndexMenu(int)\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:100:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.npc.Npc
+ERROR:101:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.npc.Npc
+ERROR:116:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.npc.Npc
+ERROR:118:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.npc.Npc
+ERROR:129:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.npc.Npc
+ERROR:131:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.npc.Npc
+ERROR:157:cannot find symbol\n  symbol\d   method setNpcChose(com.girlkun.models.npc.Npc)\n  location\d variable iDMark of type com.girlkun.models.player.IDMark

@@ -1,0 +1,7 @@
+ERROR:7:package com.girlkun.network.io does not exist
+ERROR:26:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.FlagBagService
+ERROR:28:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.FlagBagService
+ERROR:43:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.FlagBagService
+ERROR:45:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.FlagBagService
+ERROR:60:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.FlagBagService
+ERROR:62:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.FlagBagService

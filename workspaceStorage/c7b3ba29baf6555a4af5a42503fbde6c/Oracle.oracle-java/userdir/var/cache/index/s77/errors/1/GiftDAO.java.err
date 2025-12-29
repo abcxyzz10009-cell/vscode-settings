@@ -1,0 +1,7 @@
+ERROR:3:package com.girlkun.models.player does not exist
+ERROR:4:package com.girlkun.utils does not exist
+ERROR:24:cannot find symbol\n  symbol\d   class Player\n  location\d class com.girlkun.jdbc.daos.GiftDAO
+ERROR:55:cannot find symbol\n  symbol\d   class Player\n  location\d class com.girlkun.jdbc.daos.GiftDAO
+ERROR:20:cannot find symbol\n  symbol\d   variable Logger\n  location\d class com.girlkun.jdbc.daos.GiftDAO
+ERROR:40:cannot find symbol\n  symbol\d   variable Logger\n  location\d class com.girlkun.jdbc.daos.GiftDAO
+ERROR:64:cannot find symbol\n  symbol\d   variable Logger\n  location\d class com.girlkun.jdbc.daos.GiftDAO

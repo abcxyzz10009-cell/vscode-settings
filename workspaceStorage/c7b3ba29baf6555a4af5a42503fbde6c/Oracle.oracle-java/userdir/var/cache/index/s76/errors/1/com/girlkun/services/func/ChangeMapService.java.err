@@ -1,0 +1,39 @@
+ERROR:18:package com.girlkun.network.io does not exist
+ERROR:57:cannot find symbol\n  symbol\d   method getTypeChangeMap()\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:59:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.ChangeMapService
+ERROR:61:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.ChangeMapService
+ERROR:62:cannot find symbol\n  symbol\d   method getTypeChangeMap()\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:132:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.ChangeMapService
+ERROR:134:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.ChangeMapService
+ERROR:179:cannot find symbol\n  symbol\d   method getLastTimeChangeZone()\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:180:cannot find symbol\n  symbol\d   method setLastTimeChangeZone(long)\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:196:cannot find symbol\n  symbol\d   method getLastTimeChangeZone()\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:333:cannot find symbol\n  symbol\d   method setIdSpaceShip(byte)\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:335:cannot find symbol\n  symbol\d   method setIdSpaceShip(byte)\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:360:cannot find symbol\n  symbol\d   method setIdSpaceShip(byte)\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:445:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.ChangeMapService
+ERROR:448:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.ChangeMapService
+ERROR:458:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.ChangeMapService
+ERROR:467:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.ChangeMapService
+ERROR:480:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.ChangeMapService
+ERROR:487:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.ChangeMapService
+ERROR:496:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.ChangeMapService
+ERROR:504:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.ChangeMapService
+ERROR:522:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.ChangeMapService
+ERROR:531:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.ChangeMapService
+ERROR:540:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.ChangeMapService
+ERROR:553:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.ChangeMapService
+ERROR:563:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.ChangeMapService
+ERROR:574:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.ChangeMapService
+ERROR:589:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.ChangeMapService
+ERROR:591:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.ChangeMapService
+ERROR:639:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.ChangeMapService
+ERROR:641:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.ChangeMapService
+ERROR:654:cannot find symbol\n  symbol\d   method isGotoFuture()\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:655:cannot find symbol\n  symbol\d   method setLastTimeGoToFuture(long)\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:656:cannot find symbol\n  symbol\d   method setGotoFuture(boolean)\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:663:cannot find symbol\n  symbol\d   method isGoToBDKB()\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:664:cannot find symbol\n  symbol\d   method setLastTimeGoToBDKB(long)\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:665:cannot find symbol\n  symbol\d   method setGoToBDKB(boolean)\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:680:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.ChangeMapService
+ERROR:682:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.ChangeMapService

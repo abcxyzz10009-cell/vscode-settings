@@ -1,0 +1,8 @@
+ERROR:19:package com.girlkun.network.io does not exist
+ERROR:61:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.TaskService
+ERROR:63:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.TaskService
+ERROR:99:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.TaskService
+ERROR:101:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.TaskService
+ERROR:111:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.TaskService
+ERROR:113:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.TaskService
+ERROR:365:cannot find symbol\n  symbol\d   method getIndexMenu()\n  location\d variable iDMark of type com.girlkun.models.player.IDMark

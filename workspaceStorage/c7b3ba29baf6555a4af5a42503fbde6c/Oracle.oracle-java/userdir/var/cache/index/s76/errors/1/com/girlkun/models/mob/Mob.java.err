@@ -1,0 +1,16 @@
+ERROR:17:package com.girlkun.network.io does not exist
+ERROR:294:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.mob.Mob
+ERROR:145:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.mob.Mob
+ERROR:145:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.mob.Mob
+ERROR:213:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.mob.Mob
+ERROR:215:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.mob.Mob
+ERROR:226:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.mob.Mob
+ERROR:228:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.mob.Mob
+ERROR:245:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.mob.Mob
+ERROR:247:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.mob.Mob
+ERROR:260:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.mob.Mob
+ERROR:262:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.mob.Mob
+ERROR:335:cannot find symbol\n  symbol\d   method getItemReward()\n  location\d variable mobReward of type com.girlkun.models.reward.MobReward
+ERROR:336:cannot find symbol\n  symbol\d   method getGoldReward()\n  location\d variable mobReward of type com.girlkun.models.reward.MobReward
+ERROR:382:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.mob.Mob
+ERROR:384:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.mob.Mob

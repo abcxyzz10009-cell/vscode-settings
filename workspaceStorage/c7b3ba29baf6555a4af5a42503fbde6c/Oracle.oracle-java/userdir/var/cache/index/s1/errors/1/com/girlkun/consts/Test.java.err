@@ -1,0 +1,4 @@
+ERROR:8:package com.girlkun.database does not exist
+ERROR:9:package com.girlkun.result does not exist
+ERROR:18:cannot find symbol\n  symbol\d   class GirlkunResultSet\n  location\d class com.girlkun.consts.Test
+ERROR:18:cannot find symbol\n  symbol\d   variable GirlkunDB\n  location\d class com.girlkun.consts.Test

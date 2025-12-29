@@ -1,0 +1,12 @@
+ERROR:49:package com.girlkun.network.io does not exist
+ERROR:287:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.boss.BossManager
+ERROR:289:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.boss.BossManager
+ERROR:292:cannot find symbol\n  symbol\d   method getMapJoin()\n  location\d class com.girlkun.models.boss.BossData
+ERROR:292:cannot find symbol\n  symbol\d   method getMapJoin()\n  location\d class com.girlkun.models.boss.BossData
+ERROR:295:cannot find symbol\n  symbol\d   method getMapJoin()\n  location\d class com.girlkun.models.boss.BossData
+ERROR:295:cannot find symbol\n  symbol\d   method getMapJoin()\n  location\d class com.girlkun.models.boss.BossData
+ERROR:300:cannot find symbol\n  symbol\d   method getOutfit()\n  location\d class com.girlkun.models.boss.BossData
+ERROR:301:cannot find symbol\n  symbol\d   method getOutfit()\n  location\d class com.girlkun.models.boss.BossData
+ERROR:305:cannot find symbol\n  symbol\d   method getOutfit()\n  location\d class com.girlkun.models.boss.BossData
+ERROR:306:cannot find symbol\n  symbol\d   method getName()\n  location\d class com.girlkun.models.boss.BossData
+ERROR:326:cannot find symbol\n  symbol\d   method isHoldBlackBall()\n  location\d variable iDMark of type com.girlkun.models.player.IDMark

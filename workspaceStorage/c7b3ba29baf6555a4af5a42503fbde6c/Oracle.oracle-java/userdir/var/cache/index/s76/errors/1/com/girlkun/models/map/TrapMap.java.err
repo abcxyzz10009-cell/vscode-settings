@@ -1,0 +1,2 @@
+ERROR:21:cannot find symbol\n  symbol\d   method getLastTimeAnXienTrapBDKB()\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:26:cannot find symbol\n  symbol\d   method setLastTimeAnXienTrapBDKB(long)\n  location\d variable iDMark of type com.girlkun.models.player.IDMark

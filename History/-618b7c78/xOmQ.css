@@ -1,0 +1,16 @@
+/* style có thể viết trong head của html */
+
+/* <link rel="stylesheet" href="____.css">  */
+<head>
+    <tytle>
+    h1{
+        color: black;
+    }
+    h2{
+        color:red;
+    }
+    p{
+        color:green;
+    }
+    </tytle>
+</head>

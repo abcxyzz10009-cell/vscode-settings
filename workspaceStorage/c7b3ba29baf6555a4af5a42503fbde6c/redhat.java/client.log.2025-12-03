@@ -1,0 +1,83 @@
+{
+  message: "Use the JDK from 'PATH' as the initial default project JDK.",
+  level: 'info',
+  timestamp: '2025-12-03 07:17:34.286'
+}
+{
+  message: 'Starting Java server with: c:\\Users\\ADMIN\\.vscode\\extensions\\redhat.java-1.50.0-win32-x64\\jre\\21.0.9-win32-x86_64\\bin\\java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -DDetectVMInstallationsJob.disabled=true -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx2G -Xms100m -Xlog:disable -javaagent:c:\\Users\\ADMIN\\.vscode\\extensions\\redhat.java-1.50.0-win32-x64\\lombok\\lombok-1.18.39-4050.jar -jar c:\\Users\\ADMIN\\.vscode\\extensions\\redhat.java-1.50.0-win32-x64\\server\\plugins\\org.eclipse.equinox.launcher_1.7.100.v20251111-0406.jar -configuration c:\\Users\\ADMIN\\AppData\\Roaming\\Code\\User\\globalStorage\\redhat.java\\1.50.0\\config_ss_win -data c:\\Users\\ADMIN\\AppData\\Roaming\\Code\\User\\workspaceStorage\\c7b3ba29baf6555a4af5a42503fbde6c\\redhat.java\\ss_ws',
+  level: 'info',
+  timestamp: '2025-12-03 07:17:34.318'
+}
+{
+  message: 'Starting Java server with: c:\\Users\\ADMIN\\.vscode\\extensions\\redhat.java-1.50.0-win32-x64\\jre\\21.0.9-win32-x86_64\\bin\\java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -DDetectVMInstallationsJob.disabled=true -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx2G -Xms100m -Xlog:disable -javaagent:c:\\Users\\ADMIN\\.vscode\\extensions\\redhat.java-1.50.0-win32-x64\\lombok\\lombok-1.18.39-4050.jar -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=c:\\Users\\ADMIN\\AppData\\Roaming\\Code\\User\\workspaceStorage\\c7b3ba29baf6555a4af5a42503fbde6c\\redhat.java -Daether.dependencyCollector.impl=bf -jar c:\\Users\\ADMIN\\.vscode\\extensions\\redhat.java-1.50.0-win32-x64\\server\\plugins\\org.eclipse.equinox.launcher_1.7.100.v20251111-0406.jar -configuration c:\\Users\\ADMIN\\AppData\\Roaming\\Code\\User\\globalStorage\\redhat.java\\1.50.0\\config_win -data c:\\Users\\ADMIN\\AppData\\Roaming\\Code\\User\\workspaceStorage\\c7b3ba29baf6555a4af5a42503fbde6c\\redhat.java\\jdt_ws',
+  level: 'info',
+  timestamp: '2025-12-03 07:17:37.575'
+}
+{
+  message: 'Dec 03, 2025 7:17:41 AM org.apache.aries.spifly.BaseActivator log\r\n' +
+    'INFO: Registered provider ch.qos.logback.classic.spi.LogbackServiceProvider of service org.slf4j.spi.SLF4JServiceProvider in bundle ch.qos.logback.classic\r\n',
+  level: 'info',
+  timestamp: '2025-12-03 07:17:44.615'
+}
+{
+  message: 'Dec 03, 2025 7:18:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation\r\n' +
+    'WARNING: Unmatched cancel notification for request id 4\r\n',
+  level: 'info',
+  timestamp: '2025-12-03 07:18:32.972'
+}
+{
+  message: 'Dec 03, 2025 7:18:33 AM com.microsoft.java.debug.plugin.internal.JavaDebuggerServerPlugin start\r\n' +
+    'INFO: Starting com.microsoft.java.debug.plugin\r\n',
+  level: 'info',
+  timestamp: '2025-12-03 07:18:33.367'
+}
+{
+  message: 'Dec 03, 2025 7:48:23 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation\r\n' +
+    'WARNING: Unmatched cancel notification for request id 118\r\n',
+  level: 'info',
+  timestamp: '2025-12-03 07:48:23.121'
+}
+{
+  message: 'Dec 03, 2025 7:48:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation\r\n' +
+    'WARNING: Unmatched cancel notification for request id 134\r\n',
+  level: 'info',
+  timestamp: '2025-12-03 07:48:35.655'
+}
+{
+  message: "Failed to provide hover command Error: The request (id: 211, method: 'java/findLinks') has been cancelled",
+  level: 'error',
+  timestamp: '2025-12-03 08:17:28.324'
+}
+{
+  message: "Failed to provide hover command Error: The request (id: 213, method: 'java/findLinks') has been cancelled",
+  level: 'error',
+  timestamp: '2025-12-03 08:17:28.639'
+}
+{
+  message: 'Dec 03, 2025 8:17:28 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation\r\n' +
+    'WARNING: Unmatched cancel notification for request id 215\r\n',
+  level: 'info',
+  timestamp: '2025-12-03 08:17:28.956'
+}
+{
+  message: 'Dec 03, 2025 8:18:01 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation\r\n' +
+    'WARNING: Unmatched cancel notification for request id 292\r\n',
+  level: 'info',
+  timestamp: '2025-12-03 08:18:01.500'
+}
+{
+  message: "Failed to provide hover command Error: The request (id: 315, method: 'java/findLinks') has been cancelled",
+  level: 'error',
+  timestamp: '2025-12-03 08:18:08.300'
+}
+{
+  message: "Failed to provide hover command Error: The request (id: 414, method: 'java/findLinks') has been cancelled",
+  level: 'error',
+  timestamp: '2025-12-03 08:18:54.022'
+}
+{
+  message: 'Dec 03, 2025 8:18:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation\r\n' +
+    'WARNING: Unmatched cancel notification for request id 425\r\n',
+  level: 'info',
+  timestamp: '2025-12-03 08:18:56.604'
+}

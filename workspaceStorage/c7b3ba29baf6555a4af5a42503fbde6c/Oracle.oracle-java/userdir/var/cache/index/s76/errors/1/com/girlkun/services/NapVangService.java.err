@@ -1,0 +1,5 @@
+ERROR:8:package com.girlkun.database does not exist
+ERROR:34:cannot find symbol\n  symbol\d   variable GirlkunDB\n  location\d class com.girlkun.services.NapVangService
+ERROR:54:cannot find symbol\n  symbol\d   variable GirlkunDB\n  location\d class com.girlkun.services.NapVangService
+ERROR:74:cannot find symbol\n  symbol\d   variable GirlkunDB\n  location\d class com.girlkun.services.NapVangService
+ERROR:94:cannot find symbol\n  symbol\d   variable GirlkunDB\n  location\d class com.girlkun.services.NapVangService

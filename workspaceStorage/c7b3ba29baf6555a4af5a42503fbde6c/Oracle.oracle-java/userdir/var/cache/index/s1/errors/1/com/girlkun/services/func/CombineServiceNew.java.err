@@ -1,0 +1,16 @@
+ERROR:12:package com.girlkun.network.io does not exist
+ERROR:87:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.CombineServiceNew
+ERROR:89:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.CombineServiceNew
+ERROR:93:cannot find symbol\n  symbol\d   method getNpcChose()\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:94:cannot find symbol\n  symbol\d   method getNpcChose()\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:603:cannot find symbol\n  symbol\d   method setIndexMenu(int)\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:1414:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.CombineServiceNew
+ERROR:1416:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.CombineServiceNew
+ERROR:1432:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.CombineServiceNew
+ERROR:1434:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.CombineServiceNew
+ERROR:1448:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.CombineServiceNew
+ERROR:1450:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.CombineServiceNew
+ERROR:1464:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.CombineServiceNew
+ERROR:1466:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.CombineServiceNew
+ERROR:1489:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.CombineServiceNew
+ERROR:1491:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.CombineServiceNew

@@ -1,0 +1,29 @@
+ERROR:61:cannot find symbol\n  symbol\d   method getSecondsRest()\n  location\d class com.girlkun.models.boss.BossData
+ERROR:67:cannot find symbol\n  symbol\d   method getBossesAppearTogether()\n  location\d class com.girlkun.models.boss.BossData
+ERROR:68:cannot find symbol\n  symbol\d   method getBossesAppearTogether()\n  location\d class com.girlkun.models.boss.BossData
+ERROR:69:cannot find symbol\n  symbol\d   method getBossesAppearTogether()\n  location\d class com.girlkun.models.boss.BossData
+ERROR:70:cannot find symbol\n  symbol\d   method getBossesAppearTogether()\n  location\d class com.girlkun.models.boss.BossData
+ERROR:83:cannot find symbol\n  symbol\d   method getName()\n  location\d variable data of type com.girlkun.models.boss.BossData
+ERROR:84:cannot find symbol\n  symbol\d   method getGender()\n  location\d variable data of type com.girlkun.models.boss.BossData
+ERROR:86:cannot find symbol\n  symbol\d   method getDame()\n  location\d variable data of type com.girlkun.models.boss.BossData
+ERROR:87:cannot find symbol\n  symbol\d   method getHp()\n  location\d variable data of type com.girlkun.models.boss.BossData
+ERROR:87:cannot find symbol\n  symbol\d   method getHp()\n  location\d variable data of type com.girlkun.models.boss.BossData
+ERROR:100:cannot find symbol\n  symbol\d   method getSkillTemp()\n  location\d class com.girlkun.models.boss.BossData
+ERROR:125:cannot find symbol\n  symbol\d   method getOutfit()\n  location\d class com.girlkun.models.boss.BossData
+ERROR:133:cannot find symbol\n  symbol\d   method getOutfit()\n  location\d class com.girlkun.models.boss.BossData
+ERROR:141:cannot find symbol\n  symbol\d   method getOutfit()\n  location\d class com.girlkun.models.boss.BossData
+ERROR:147:cannot find symbol\n  symbol\d   method getOutfit()\n  location\d class com.girlkun.models.boss.BossData
+ERROR:152:cannot find symbol\n  symbol\d   method getOutfit()\n  location\d class com.girlkun.models.boss.BossData
+ERROR:157:cannot find symbol\n  symbol\d   method getOutfit()\n  location\d class com.girlkun.models.boss.BossData
+ERROR:161:cannot find symbol\n  symbol\d   method getMapJoin()\n  location\d class com.girlkun.models.boss.BossData
+ERROR:161:cannot find symbol\n  symbol\d   method getMapJoin()\n  location\d class com.girlkun.models.boss.BossData
+ERROR:253:cannot find symbol\n  symbol\d   method getTypeAppear()\n  location\d class com.girlkun.models.boss.BossData
+ERROR:327:cannot find symbol\n  symbol\d   method getTextS()\n  location\d class com.girlkun.models.boss.BossData
+ERROR:330:cannot find symbol\n  symbol\d   method getTextS()\n  location\d class com.girlkun.models.boss.BossData
+ERROR:356:cannot find symbol\n  symbol\d   method getTextM()\n  location\d class com.girlkun.models.boss.BossData
+ERROR:362:cannot find symbol\n  symbol\d   method getTextM()\n  location\d class com.girlkun.models.boss.BossData
+ERROR:362:cannot find symbol\n  symbol\d   method getTextM()\n  location\d class com.girlkun.models.boss.BossData
+ERROR:447:cannot find symbol\n  symbol\d   method getTextE()\n  location\d class com.girlkun.models.boss.BossData
+ERROR:450:cannot find symbol\n  symbol\d   method getTextE()\n  location\d class com.girlkun.models.boss.BossData
+ERROR:573:cannot find symbol\n  symbol\d   method getTypeAppear()\n  location\d class com.girlkun.models.boss.BossData
+ERROR:578:cannot find symbol\n  symbol\d   method getTypeAppear()\n  location\d class com.girlkun.models.boss.BossData

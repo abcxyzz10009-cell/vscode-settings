@@ -1,0 +1,10 @@
+ERROR:16:package com.girlkun.network.io does not exist
+ERROR:59:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.UseItem
+ERROR:105:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.UseItem
+ERROR:120:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.UseItem
+ERROR:107:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.UseItem
+ERROR:122:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.UseItem
+ERROR:136:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.UseItem
+ERROR:159:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.UseItem
+ERROR:689:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.UseItem
+ERROR:767:cannot find symbol\n  symbol\d   method setTypeChangeMap(int)\n  location\d variable iDMark of type com.girlkun.models.player.IDMark

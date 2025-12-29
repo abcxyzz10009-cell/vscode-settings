@@ -1,0 +1,16 @@
+ERROR:7:package com.girlkun.network.io does not exist
+ERROR:63:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.Trade
+ERROR:65:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.Trade
+ERROR:71:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.Trade
+ERROR:152:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.Trade
+ERROR:154:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.Trade
+ERROR:165:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.Trade
+ERROR:167:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.Trade
+ERROR:216:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.Trade
+ERROR:218:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.Trade
+ERROR:228:cannot find symbol\n  symbol\d   method setPlayerTradeId(int)\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:229:cannot find symbol\n  symbol\d   method setPlayerTradeId(int)\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:241:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.Trade
+ERROR:243:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.Trade
+ERROR:340:cannot find symbol\n  symbol\d   method setLastTimeTrade(long)\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:341:cannot find symbol\n  symbol\d   method setLastTimeTrade(long)\n  location\d variable iDMark of type com.girlkun.models.player.IDMark

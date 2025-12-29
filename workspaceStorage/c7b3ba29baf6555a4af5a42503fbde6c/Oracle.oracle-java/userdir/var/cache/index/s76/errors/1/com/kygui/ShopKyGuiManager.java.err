@@ -1,0 +1,8 @@
+ERROR:8:package com.girlkun.database does not exist
+ERROR:10:package com.girlkun.result does not exist
+ERROR:17:package org.json.simple does not exist
+ERROR:18:package org.json.simple does not exist
+ERROR:19:package org.json.simple does not exist
+ERROR:42:cannot find symbol\n  symbol\d   variable GirlkunDB\n  location\d class com.kygui.ShopKyGuiManager
+ERROR:48:cannot find symbol\n  symbol\d   variable JSONValue\n  location\d class com.kygui.ShopKyGuiManager
+ERROR:48:cannot find symbol\n  symbol\d   variable JSONValue\n  location\d class com.kygui.ShopKyGuiManager

@@ -1,0 +1,4 @@
+ERROR:3:package lombok does not exist
+ERROR:4:package lombok does not exist
+ERROR:6:cannot find symbol\n  symbol\d class Data
+ERROR:7:cannot find symbol\n  symbol\d class Builder

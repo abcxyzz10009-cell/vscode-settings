@@ -1,0 +1,6 @@
+ERROR:11:package com.girlkun.network.io does not exist
+ERROR:147:cannot find symbol\n  symbol\d   class Message\n  location\d class com.kygui.ShopKyGuiService
+ERROR:149:cannot find symbol\n  symbol\d   class Message\n  location\d class com.kygui.ShopKyGuiService
+ERROR:207:cannot find symbol\n  symbol\d   method setIdItemUpTop(int)\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:340:cannot find symbol\n  symbol\d   class Message\n  location\d class com.kygui.ShopKyGuiService
+ERROR:342:cannot find symbol\n  symbol\d   class Message\n  location\d class com.kygui.ShopKyGuiService

@@ -1,0 +1,3 @@
+ERROR:10:package com.girlkun.network.io does not exist
+ERROR:150:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.player.Pet
+ERROR:152:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.player.Pet

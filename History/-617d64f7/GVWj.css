@@ -1,0 +1,19 @@
+h2{
+    opacity: 0;
+    display: none;
+    visibility: hidden;
+}
+img{
+    transition: 2.5s;
+}
+input:checked ~ img{
+    display: none;
+    /* biến mất khỏi giao diện không chiếm vị trí */
+
+    /* visibility: hidden; */
+    /* biến mất khỏi giao diện vẫn chiếm vị trí */
+
+    /* opacity: 0; */
+    /* làm mờ đi vẫn chiếm vị trí */
+
+}

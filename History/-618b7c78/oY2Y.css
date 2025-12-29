@@ -1,0 +1,37 @@
+/* style có thể viết trong head của html */
+
+/* <link rel="stylesheet" href="____.css">  */
+<head>
+    <style>
+    h1{
+        color: white;
+    }
+    h2{
+        color:red;
+        /* màu chữ color */
+        font-style:italic;
+        /* chữ in nghiêng như nào*/
+        font-family: 'Courier New', Courier, monospace;
+        /* font chữ */
+        text-transform:uppercase;
+        /* chữ in hoa */
+        text-align:center;
+        /* canh giữa */
+        background-color: black;
+        /* màu nền background-color */
+        body{
+            background-image: url("./img/noigigap.jpg");
+        }
+
+
+    }
+    .xanhla{
+        color:green;
+    }
+    .duy{
+        color: blue;
+    }
+
+    </style>
+</head>
+

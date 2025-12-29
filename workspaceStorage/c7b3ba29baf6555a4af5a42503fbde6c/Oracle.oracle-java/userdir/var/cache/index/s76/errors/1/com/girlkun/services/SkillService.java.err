@@ -1,0 +1,12 @@
+ERROR:12:package com.girlkun.network.io does not exist
+ERROR:478:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.SkillService
+ERROR:480:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.SkillService
+ERROR:515:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.SkillService
+ERROR:517:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.SkillService
+ERROR:534:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.SkillService
+ERROR:580:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.SkillService
+ERROR:582:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.SkillService
+ERROR:594:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.SkillService
+ERROR:596:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.SkillService
+ERROR:796:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.SkillService
+ERROR:798:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.SkillService

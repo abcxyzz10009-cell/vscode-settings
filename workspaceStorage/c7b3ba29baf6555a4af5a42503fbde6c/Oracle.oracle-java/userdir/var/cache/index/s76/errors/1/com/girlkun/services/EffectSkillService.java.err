@@ -1,0 +1,21 @@
+ERROR:6:package com.girlkun.network.io does not exist
+ERROR:42:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.EffectSkillService
+ERROR:44:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.EffectSkillService
+ERROR:56:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.EffectSkillService
+ERROR:58:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.EffectSkillService
+ERROR:76:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.EffectSkillService
+ERROR:78:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.EffectSkillService
+ERROR:177:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.EffectSkillService
+ERROR:179:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.EffectSkillService
+ERROR:294:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.EffectSkillService
+ERROR:296:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.EffectSkillService
+ERROR:320:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.EffectSkillService
+ERROR:322:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.EffectSkillService
+ERROR:336:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.EffectSkillService
+ERROR:338:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.EffectSkillService
+ERROR:352:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.EffectSkillService
+ERROR:352:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.EffectSkillService
+ERROR:365:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.EffectSkillService
+ERROR:367:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.EffectSkillService
+ERROR:381:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.EffectSkillService
+ERROR:383:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.EffectSkillService

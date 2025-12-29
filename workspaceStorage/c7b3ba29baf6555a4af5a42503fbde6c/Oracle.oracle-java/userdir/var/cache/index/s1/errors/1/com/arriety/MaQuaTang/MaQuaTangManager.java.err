@@ -1,0 +1,15 @@
+ERROR:6:package com.girlkun.database does not exist
+ERROR:17:package org.json.simple does not exist
+ERROR:18:package org.json.simple does not exist
+ERROR:19:package org.json.simple does not exist
+ERROR:38:cannot find symbol\n  symbol\d   variable GirlkunDB\n  location\d class com.arriety.MaQuaTang.MaQuaTangManager
+ERROR:48:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.arriety.MaQuaTang.MaQuaTangManager
+ERROR:48:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.arriety.MaQuaTang.MaQuaTangManager
+ERROR:48:cannot find symbol\n  symbol\d   variable JSONValue\n  location\d class com.arriety.MaQuaTang.MaQuaTangManager
+ERROR:51:cannot find symbol\n  symbol\d   class JSONObject\n  location\d class com.arriety.MaQuaTang.MaQuaTangManager
+ERROR:51:cannot find symbol\n  symbol\d   class JSONObject\n  location\d class com.arriety.MaQuaTang.MaQuaTangManager
+ERROR:57:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.arriety.MaQuaTang.MaQuaTangManager
+ERROR:57:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.arriety.MaQuaTang.MaQuaTangManager
+ERROR:57:cannot find symbol\n  symbol\d   variable JSONValue\n  location\d class com.arriety.MaQuaTang.MaQuaTangManager
+ERROR:61:cannot find symbol\n  symbol\d   class JSONObject\n  location\d class com.arriety.MaQuaTang.MaQuaTangManager
+ERROR:61:cannot find symbol\n  symbol\d   class JSONObject\n  location\d class com.arriety.MaQuaTang.MaQuaTangManager

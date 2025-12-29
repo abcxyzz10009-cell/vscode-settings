@@ -1,0 +1,5 @@
+ERROR:5:package com.girlkun.network.io does not exist
+ERROR:22:cannot find symbol\n  symbol\d   method getLastTimePickItem()\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:24:cannot find symbol\n  symbol\d   method setLastTimePickItem(long)\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:35:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.ItemMapService
+ERROR:37:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.ItemMapService

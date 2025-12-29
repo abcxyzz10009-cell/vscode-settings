@@ -1,0 +1,67 @@
+/* h2 {
+  opacity: 0;
+  display: none;
+  visibility: hidden;
+}
+
+img {
+  transition: 2.5s;
+} */
+
+input:checked ~ img {
+  /* display: none; */
+  /* biến mất khỏi giao diện không chiếm vị trí */
+
+  /* visibility: hidden; */
+  /* biến mất khỏi giao diện vẫn chiếm vị trí */
+
+  opacity: 0;
+  /* làm mờ đi vẫn chiếm vị trí */
+}
+/* 
+h1 {
+  color: red;
+} */
+/* tiêu đề */
+
+/* #duyid {
+  color: blue;
+} */
+/* id */
+/* 
+.duyclass {
+  color: green;
+} */
+/* class
+
+
+* {
+  color: orange;
+}
+/* điều chỉnh cả trang web *{} */
+
+h3.demo {
+  color: rgb(76, 32, 158);
+}
+/* chỉ tác động lên thẻ h3 có class demo */
+
+.loichuc p {
+  color: brown;
+  font-size: 18px;
+}
+/* áp dụng cho mọi thẻ nằm trong thẻ có class là lời chúc vd thẻ div */
+
+div p {
+  font-style: italic;
+}
+/* áp dụng cho mọi thẻ p nằm trong thẻ div */
+
+div > p {
+  font-weight: bold;
+}
+/* áp dụng cho mọi thẻ p nằm trực tiếp trong thẻ div - ý là không được nằm trong một thẻ khác mà con trực tiếp*/
+
+.block > p {
+  text-decoration: underline;
+}
+/* áp dụng cho mọi thẻ p là con trực tiếp của phần tử có class block */

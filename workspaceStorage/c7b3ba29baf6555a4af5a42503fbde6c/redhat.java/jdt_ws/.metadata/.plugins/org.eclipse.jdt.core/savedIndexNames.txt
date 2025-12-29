@@ -1,0 +1,12 @@
+INDEX VERSION 1.134+C:\Users\ADMIN\AppData\Roaming\Code\User\workspaceStorage\c7b3ba29baf6555a4af5a42503fbde6c\redhat.java\jdt_ws\.metadata\.plugins\org.eclipse.jdt.core
+3413725848.index
+3601505313.index
+1136316579.index
+2479539320.index
+2238567309.index
+728034894.index
+1865797976.index
+3777790128.index
+4186916120.index
+3310287448.index
+2397749044.index

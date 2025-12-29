@@ -1,0 +1,24 @@
+ERROR:3:package com.girlkun.database does not exist
+ERROR:4:package com.girlkun.models.item does not exist
+ERROR:5:package com.girlkun.models.player does not exist
+ERROR:6:package com.girlkun.utils does not exist
+ERROR:7:package com.girlkun.utils does not exist
+ERROR:19:cannot find symbol\n  symbol\d   class Player\n  location\d class com.girlkun.jdbc.daos.HistoryTransactionDAO
+ERROR:19:cannot find symbol\n  symbol\d   class Player\n  location\d class com.girlkun.jdbc.daos.HistoryTransactionDAO
+ERROR:20:cannot find symbol\n  symbol\d   class Item\n  location\d class com.girlkun.jdbc.daos.HistoryTransactionDAO
+ERROR:20:cannot find symbol\n  symbol\d   class Item\n  location\d class com.girlkun.jdbc.daos.HistoryTransactionDAO
+ERROR:21:cannot find symbol\n  symbol\d   class Item\n  location\d class com.girlkun.jdbc.daos.HistoryTransactionDAO
+ERROR:21:cannot find symbol\n  symbol\d   class Item\n  location\d class com.girlkun.jdbc.daos.HistoryTransactionDAO
+ERROR:22:cannot find symbol\n  symbol\d   class Item\n  location\d class com.girlkun.jdbc.daos.HistoryTransactionDAO
+ERROR:23:cannot find symbol\n  symbol\d   class Item\n  location\d class com.girlkun.jdbc.daos.HistoryTransactionDAO
+ERROR:30:cannot find symbol\n  symbol\d   class Item\n  location\d class com.girlkun.jdbc.daos.HistoryTransactionDAO
+ERROR:31:cannot find symbol\n  symbol\d   class Item\n  location\d class com.girlkun.jdbc.daos.HistoryTransactionDAO
+ERROR:32:cannot find symbol\n  symbol\d   class Item\n  location\d class com.girlkun.jdbc.daos.HistoryTransactionDAO
+ERROR:39:cannot find symbol\n  symbol\d   class Item\n  location\d class com.girlkun.jdbc.daos.HistoryTransactionDAO
+ERROR:48:cannot find symbol\n  symbol\d   class Item\n  location\d class com.girlkun.jdbc.daos.HistoryTransactionDAO
+ERROR:54:cannot find symbol\n  symbol\d   class Item\n  location\d class com.girlkun.jdbc.daos.HistoryTransactionDAO
+ERROR:62:cannot find symbol\n  symbol\d   class Item\n  location\d class com.girlkun.jdbc.daos.HistoryTransactionDAO
+ERROR:67:cannot find symbol\n  symbol\d   class Item\n  location\d class com.girlkun.jdbc.daos.HistoryTransactionDAO
+ERROR:74:cannot find symbol\n  symbol\d   class Item\n  location\d class com.girlkun.jdbc.daos.HistoryTransactionDAO
+ERROR:79:cannot find symbol\n  symbol\d   class Item\n  location\d class com.girlkun.jdbc.daos.HistoryTransactionDAO
+ERROR:85:cannot find symbol\n  symbol\d   variable GirlkunDB\n  location\d class com.girlkun.jdbc.daos.HistoryTransactionDAO

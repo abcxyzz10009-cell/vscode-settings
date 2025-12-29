@@ -1,0 +1,17 @@
+ERROR:3:package com.girlkun.database does not exist
+ERROR:5:package com.girlkun.network.io does not exist
+ERROR:40:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.PlayerService
+ERROR:50:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.PlayerService
+ERROR:28:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.PlayerService
+ERROR:30:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.PlayerService
+ERROR:60:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.PlayerService
+ERROR:72:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.PlayerService
+ERROR:100:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.PlayerService
+ERROR:171:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.PlayerService
+ERROR:173:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.PlayerService
+ERROR:183:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.PlayerService
+ERROR:185:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.PlayerService
+ERROR:204:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.PlayerService
+ERROR:217:cannot find symbol\n  symbol\d   variable GirlkunDB\n  location\d class com.girlkun.services.PlayerService
+ERROR:223:cannot find symbol\n  symbol\d   method setLastTimeBan(long)\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:224:cannot find symbol\n  symbol\d   method setBan(boolean)\n  location\d variable iDMark of type com.girlkun.models.player.IDMark

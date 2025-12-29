@@ -1,0 +1,7 @@
+ERROR:12:package lombok does not exist
+ERROR:15:cannot find symbol\n  symbol\d class Data
+ERROR:62:cannot find symbol\n  symbol\d   method getRatio()\n  location\d variable opt of type com.girlkun.models.reward.ItemOptionMobReward
+ERROR:62:cannot find symbol\n  symbol\d   method getRatio()\n  location\d variable opt of type com.girlkun.models.reward.ItemOptionMobReward
+ERROR:65:cannot find symbol\n  symbol\d   method getTemp()\n  location\d variable opt of type com.girlkun.models.reward.ItemOptionMobReward
+ERROR:65:cannot find symbol\n  symbol\d   method getParam()\n  location\d variable opt of type com.girlkun.models.reward.ItemOptionMobReward
+ERROR:65:cannot find symbol\n  symbol\d   method getParam()\n  location\d variable opt of type com.girlkun.models.reward.ItemOptionMobReward

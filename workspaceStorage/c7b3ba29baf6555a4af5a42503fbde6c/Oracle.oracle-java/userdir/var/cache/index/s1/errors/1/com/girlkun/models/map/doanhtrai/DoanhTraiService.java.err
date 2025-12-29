@@ -1,0 +1,2 @@
+ERROR:32:cannot find symbol\n  symbol\d   method getZones()\n  location\d class com.girlkun.models.map.doanhtrai.DoanhTrai
+ERROR:46:cannot find symbol\n  symbol\d   method getClan()\n  location\d variable dt of type com.girlkun.models.map.doanhtrai.DoanhTrai

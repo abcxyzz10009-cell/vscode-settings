@@ -1,0 +1,10 @@
+ERROR:12:package com.girlkun.network.io does not exist
+ERROR:518:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.InventoryServiceNew
+ERROR:520:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.InventoryServiceNew
+ERROR:546:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.InventoryServiceNew
+ERROR:548:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.InventoryServiceNew
+ERROR:576:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.InventoryServiceNew
+ERROR:578:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.InventoryServiceNew
+ERROR:602:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.InventoryServiceNew
+ERROR:604:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.InventoryServiceNew
+ERROR:621:cannot find symbol\n  symbol\d   method getShopOpen()\n  location\d variable iDMark of type com.girlkun.models.player.IDMark

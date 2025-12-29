@@ -1,0 +1,5 @@
+ERROR:4:package com.girlkun.network.io does not exist
+ERROR:60:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.server.ServerNotify
+ERROR:62:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.server.ServerNotify
+ERROR:75:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.server.ServerNotify
+ERROR:77:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.server.ServerNotify

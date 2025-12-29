@@ -1,0 +1,63 @@
+ERROR:4:package com.girlkun.database does not exist
+ERROR:25:package org.json.simple does not exist
+ERROR:26:package org.json.simple does not exist
+ERROR:27:package org.json.simple does not exist
+ERROR:33:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.jdbc.daos.PlayerDAO
+ERROR:33:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.jdbc.daos.PlayerDAO
+ERROR:86:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.jdbc.daos.PlayerDAO
+ERROR:86:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.jdbc.daos.PlayerDAO
+ERROR:87:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.jdbc.daos.PlayerDAO
+ERROR:87:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.jdbc.daos.PlayerDAO
+ERROR:88:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.jdbc.daos.PlayerDAO
+ERROR:88:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.jdbc.daos.PlayerDAO
+ERROR:226:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.jdbc.daos.PlayerDAO
+ERROR:226:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.jdbc.daos.PlayerDAO
+ERROR:251:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.jdbc.daos.PlayerDAO
+ERROR:251:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.jdbc.daos.PlayerDAO
+ERROR:275:cannot find symbol\n  symbol\d   variable GirlkunDB\n  location\d class com.girlkun.jdbc.daos.PlayerDAO
+ERROR:293:cannot find symbol\n  symbol\d   method isLoadedAllDataPlayer()\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:296:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.jdbc.daos.PlayerDAO
+ERROR:296:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.jdbc.daos.PlayerDAO
+ERROR:363:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.jdbc.daos.PlayerDAO
+ERROR:363:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.jdbc.daos.PlayerDAO
+ERROR:365:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.jdbc.daos.PlayerDAO
+ERROR:365:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.jdbc.daos.PlayerDAO
+ERROR:369:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.jdbc.daos.PlayerDAO
+ERROR:369:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.jdbc.daos.PlayerDAO
+ERROR:391:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.jdbc.daos.PlayerDAO
+ERROR:391:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.jdbc.daos.PlayerDAO
+ERROR:395:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.jdbc.daos.PlayerDAO
+ERROR:395:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.jdbc.daos.PlayerDAO
+ERROR:418:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.jdbc.daos.PlayerDAO
+ERROR:418:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.jdbc.daos.PlayerDAO
+ERROR:422:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.jdbc.daos.PlayerDAO
+ERROR:422:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.jdbc.daos.PlayerDAO
+ERROR:444:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.jdbc.daos.PlayerDAO
+ERROR:444:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.jdbc.daos.PlayerDAO
+ERROR:448:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.jdbc.daos.PlayerDAO
+ERROR:448:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.jdbc.daos.PlayerDAO
+ERROR:469:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.jdbc.daos.PlayerDAO
+ERROR:469:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.jdbc.daos.PlayerDAO
+ERROR:570:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.jdbc.daos.PlayerDAO
+ERROR:570:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.jdbc.daos.PlayerDAO
+ERROR:623:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.jdbc.daos.PlayerDAO
+ERROR:623:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.jdbc.daos.PlayerDAO
+ERROR:624:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.jdbc.daos.PlayerDAO
+ERROR:624:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.jdbc.daos.PlayerDAO
+ERROR:625:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.jdbc.daos.PlayerDAO
+ERROR:625:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.jdbc.daos.PlayerDAO
+ERROR:651:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.jdbc.daos.PlayerDAO
+ERROR:651:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.jdbc.daos.PlayerDAO
+ERROR:653:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.jdbc.daos.PlayerDAO
+ERROR:653:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.jdbc.daos.PlayerDAO
+ERROR:675:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.jdbc.daos.PlayerDAO
+ERROR:675:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.jdbc.daos.PlayerDAO
+ERROR:703:cannot find symbol\n  symbol\d   variable GirlkunDB\n  location\d class com.girlkun.jdbc.daos.PlayerDAO
+ERROR:730:cannot find symbol\n  symbol\d   variable JSONValue\n  location\d class com.girlkun.jdbc.daos.PlayerDAO
+ERROR:742:cannot find symbol\n  symbol\d   variable GirlkunDB\n  location\d class com.girlkun.jdbc.daos.PlayerDAO
+ERROR:760:cannot find symbol\n  symbol\d   variable GirlkunDB\n  location\d class com.girlkun.jdbc.daos.PlayerDAO
+ERROR:781:cannot find symbol\n  symbol\d   variable GirlkunDB\n  location\d class com.girlkun.jdbc.daos.PlayerDAO
+ERROR:796:cannot find symbol\n  symbol\d   variable GirlkunDB\n  location\d class com.girlkun.jdbc.daos.PlayerDAO
+ERROR:834:cannot find symbol\n  symbol\d   variable GirlkunDB\n  location\d class com.girlkun.jdbc.daos.PlayerDAO
+ERROR:852:cannot find symbol\n  symbol\d   variable GirlkunDB\n  location\d class com.girlkun.jdbc.daos.PlayerDAO
+ERROR:894:cannot find symbol\n  symbol\d   variable GirlkunDB\n  location\d class com.girlkun.jdbc.daos.PlayerDAO

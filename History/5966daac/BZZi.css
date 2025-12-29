@@ -1,0 +1,87 @@
+/* h2 {
+  opacity: 0;
+  display: none;
+  visibility: hidden;
+}
+
+img {
+  transition: 2.5s;
+} */
+
+input:checked ~ img {
+  /* display: none; */
+  /* biến mất khỏi giao diện không chiếm vị trí */
+
+  /* visibility: hidden; */
+  /* biến mất khỏi giao diện vẫn chiếm vị trí */
+
+  opacity: 0;
+  /* làm mờ đi vẫn chiếm vị trí */
+}
+/* 
+h1 {
+  color: red;
+} */
+/* tiêu đề */
+
+/* #duyid {
+  color: blue;
+} */
+/* id */
+/* 
+.duyclass {
+  color: green;
+} */
+/* class
+
+
+* {
+  color: orange;
+}
+/* điều chỉnh cả trang web *{} */
+
+h3.demo {
+  color: rgb(76, 32, 158);
+}
+/* chọn h3 có class="demo" – dùng khi cần style đúng 1 loại thẻ */
+
+.loichuc p {
+  color: brown;
+  font-size: 18px;
+}
+/* chọn p bên trong .loichuc – dùng để style nội dung theo khu vực */
+
+div p {
+  font-style: italic;
+}
+/* chọn mọi p trong div – dùng khi muốn áp dụng chung toàn khối */
+
+div > p {
+  font-weight: bold;
+}
+/* chọn p là con trực tiếp của div – dùng để tránh ảnh hưởng p lồng sâu */
+
+.block > p {
+  text-decoration: underline;
+  color: purple;
+}
+/* chọn p là con trực tiếp của .block – dùng khi cần kiểm soát cấu trúc rõ ràng */
+
+h1 + h2 {
+  color: teal;
+}
+/* chọn h2 đứng ngay sau h1 – dùng để style theo thứ tự thẻ */
+/* đứng sát ngay sau dùng + */
+
+h2 ~ p {
+  color: maroon;
+}
+/* chọn mọi p đứng sau h2 – dùng để style theo thứ tự thẻ */
+/*  */
+
+.demo.demo2 + h3,
+p {
+  color: olive;
+}
+/* h3 có class demo demo2  */
+/* "+" đứng ngay sau - " "  nằm bên trong*/

@@ -1,0 +1,9 @@
+ERROR:10:package com.girlkun.network.session does not exist
+ERROR:11:package com.girlkun.network.session does not exist
+ERROR:12:package com.girlkun.network.io does not exist
+ERROR:29:cannot find symbol\n  symbol\d class Session
+ERROR:107:method does not override or implement a method from a supertype
+ERROR:109:cannot find symbol\n  symbol\d   variable super\n  location\d class com.girlkun.server.io.MySession
+ERROR:110:cannot find symbol\n  symbol\d method startSend()
+ERROR:114:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.server.io.MySession
+ERROR:114:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.server.io.MySession

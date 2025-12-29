@@ -1,0 +1,5 @@
+ERROR:5:package com.girlkun.network.io does not exist
+ERROR:25:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.EffectMapService
+ERROR:27:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.EffectMapService
+ERROR:41:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.EffectMapService
+ERROR:43:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.EffectMapService

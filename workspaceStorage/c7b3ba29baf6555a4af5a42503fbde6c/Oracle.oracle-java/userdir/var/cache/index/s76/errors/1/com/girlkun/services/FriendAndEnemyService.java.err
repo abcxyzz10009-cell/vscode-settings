@@ -1,0 +1,16 @@
+ERROR:8:package com.girlkun.network.io does not exist
+ERROR:35:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.FriendAndEnemyService
+ERROR:54:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.FriendAndEnemyService
+ERROR:230:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.FriendAndEnemyService
+ERROR:265:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.FriendAndEnemyService
+ERROR:129:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.FriendAndEnemyService
+ERROR:131:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.FriendAndEnemyService
+ERROR:154:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.FriendAndEnemyService
+ERROR:156:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.FriendAndEnemyService
+ERROR:205:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.FriendAndEnemyService
+ERROR:207:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.FriendAndEnemyService
+ERROR:231:cannot find symbol\n  symbol\d   method getLastTimeChatPrivate()\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:232:cannot find symbol\n  symbol\d   method setLastTimeChatPrivate(long)\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:49:exception java.io.IOException is never thrown in body of corresponding try statement
+ERROR:84:exception java.io.IOException is never thrown in body of corresponding try statement
+ERROR:283:exception java.io.IOException is never thrown in body of corresponding try statement

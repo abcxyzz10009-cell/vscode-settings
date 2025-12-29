@@ -1,0 +1,26 @@
+ERROR:3:package com.girlkun.database does not exist
+ERROR:15:package com.girlkun.network.io does not exist
+ERROR:23:package org.json.simple does not exist
+ERROR:24:package org.json.simple does not exist
+ERROR:116:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.ClanService
+ERROR:143:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.ClanService
+ERROR:163:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.ClanService
+ERROR:202:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.ClanService
+ERROR:219:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.ClanService
+ERROR:242:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.ClanService
+ERROR:265:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.ClanService
+ERROR:267:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.ClanService
+ERROR:519:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.ClanService
+ERROR:522:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.ClanService
+ERROR:547:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.ClanService
+ERROR:549:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.ClanService
+ERROR:578:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.ClanService
+ERROR:580:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.ClanService
+ERROR:641:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.ClanService
+ERROR:643:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.ClanService
+ERROR:824:cannot find symbol\n  symbol\d   variable GirlkunDB\n  location\d class com.girlkun.services.ClanService
+ERROR:924:cannot find symbol\n  symbol\d   variable GirlkunDB\n  location\d class com.girlkun.services.ClanService
+ERROR:929:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.services.ClanService
+ERROR:929:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.services.ClanService
+ERROR:930:cannot find symbol\n  symbol\d   class JSONObject\n  location\d class com.girlkun.services.ClanService
+ERROR:930:cannot find symbol\n  symbol\d   class JSONObject\n  location\d class com.girlkun.services.ClanService

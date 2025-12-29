@@ -1,0 +1,19 @@
+ERROR:6:package com.girlkun.network.io does not exist
+ERROR:143:cannot find symbol\n  symbol\d   method setShopOpen(com.girlkun.models.shop.Shop)\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:144:cannot find symbol\n  symbol\d   method setTagNameShop(java.lang.String)\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:146:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.shop.ShopServiceNew
+ERROR:148:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.shop.ShopServiceNew
+ERROR:195:cannot find symbol\n  symbol\d   method setShopOpen(com.girlkun.models.shop.Shop)\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:196:cannot find symbol\n  symbol\d   method setTagNameShop(java.lang.String)\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:198:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.shop.ShopServiceNew
+ERROR:200:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.shop.ShopServiceNew
+ERROR:239:cannot find symbol\n  symbol\d   method setTagNameShop(java.lang.String)\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:240:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.shop.ShopServiceNew
+ERROR:242:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.shop.ShopServiceNew
+ERROR:282:cannot find symbol\n  symbol\d   method getTagNameShop()\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:293:cannot find symbol\n  symbol\d   method getShopOpen()\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:352:cannot find symbol\n  symbol\d   method getShopOpen()\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:373:cannot find symbol\n  symbol\d   method getShopOpen()\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:473:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.shop.ShopServiceNew
+ERROR:473:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.shop.ShopServiceNew
+ERROR:569:cannot find symbol\n  symbol\d   method getTagNameShop()\n  location\d variable iDMark of type com.girlkun.models.player.IDMark

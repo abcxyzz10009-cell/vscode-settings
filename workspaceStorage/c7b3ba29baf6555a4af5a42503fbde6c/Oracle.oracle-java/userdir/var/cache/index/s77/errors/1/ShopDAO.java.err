@@ -1,0 +1,23 @@
+ERROR:3:package com.girlkun.models.item does not exist
+ERROR:4:package com.girlkun.models.shop does not exist
+ERROR:5:package com.girlkun.models.shop does not exist
+ERROR:6:package com.girlkun.models.shop does not exist
+ERROR:7:package com.girlkun.services does not exist
+ERROR:8:package com.girlkun.utils does not exist
+ERROR:19:cannot find symbol\n  symbol\d   class Shop\n  location\d class com.girlkun.jdbc.daos.ShopDAO
+ERROR:48:cannot find symbol\n  symbol\d   class Shop\n  location\d class com.girlkun.jdbc.daos.ShopDAO
+ERROR:75:cannot find symbol\n  symbol\d   class TabShop\n  location\d class com.girlkun.jdbc.daos.ShopDAO
+ERROR:107:cannot find symbol\n  symbol\d   class ItemShop\n  location\d class com.girlkun.jdbc.daos.ShopDAO
+ERROR:20:cannot find symbol\n  symbol\d   class Shop\n  location\d class com.girlkun.jdbc.daos.ShopDAO
+ERROR:25:cannot find symbol\n  symbol\d   class Shop\n  location\d class com.girlkun.jdbc.daos.ShopDAO
+ERROR:25:cannot find symbol\n  symbol\d   class Shop\n  location\d class com.girlkun.jdbc.daos.ShopDAO
+ERROR:43:cannot find symbol\n  symbol\d   variable Logger\n  location\d class com.girlkun.jdbc.daos.ShopDAO
+ERROR:54:cannot find symbol\n  symbol\d   class TabShop\n  location\d class com.girlkun.jdbc.daos.ShopDAO
+ERROR:54:cannot find symbol\n  symbol\d   class TabShop\n  location\d class com.girlkun.jdbc.daos.ShopDAO
+ERROR:71:cannot find symbol\n  symbol\d   variable Logger\n  location\d class com.girlkun.jdbc.daos.ShopDAO
+ERROR:82:cannot find symbol\n  symbol\d   class ItemShop\n  location\d class com.girlkun.jdbc.daos.ShopDAO
+ERROR:82:cannot find symbol\n  symbol\d   class ItemShop\n  location\d class com.girlkun.jdbc.daos.ShopDAO
+ERROR:85:cannot find symbol\n  symbol\d   variable ItemService\n  location\d class com.girlkun.jdbc.daos.ShopDAO
+ERROR:103:cannot find symbol\n  symbol\d   variable Logger\n  location\d class com.girlkun.jdbc.daos.ShopDAO
+ERROR:113:package Item does not exist
+ERROR:125:cannot find symbol\n  symbol\d   variable Logger\n  location\d class com.girlkun.jdbc.daos.ShopDAO

@@ -1,0 +1,9 @@
+ERROR:4:package com.girlkun.network.io does not exist
+ERROR:25:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.card.RadarService
+ERROR:25:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.card.RadarService
+ERROR:71:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.card.RadarService
+ERROR:71:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.card.RadarService
+ERROR:85:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.card.RadarService
+ERROR:85:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.card.RadarService
+ERROR:99:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.card.RadarService
+ERROR:99:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.card.RadarService

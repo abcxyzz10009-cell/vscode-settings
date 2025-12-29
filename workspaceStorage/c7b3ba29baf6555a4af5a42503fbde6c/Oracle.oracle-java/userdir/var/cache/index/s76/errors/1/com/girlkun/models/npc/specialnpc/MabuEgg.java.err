@@ -1,0 +1,5 @@
+ERROR:7:package com.girlkun.network.io does not exist
+ERROR:34:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.npc.specialnpc.MabuEgg
+ERROR:41:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.npc.specialnpc.MabuEgg
+ERROR:80:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.npc.specialnpc.MabuEgg
+ERROR:80:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.npc.specialnpc.MabuEgg

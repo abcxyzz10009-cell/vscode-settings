@@ -1,0 +1,14 @@
+ERROR:3:package com.girlkun.database does not exist
+ERROR:8:package com.girlkun.network.server does not exist
+ERROR:9:package com.girlkun.network.session does not exist
+ERROR:78:cannot find symbol\n  symbol\d   variable GirlkunDB\n  location\d class com.girlkun.server.Client
+ERROR:132:cannot find symbol\n  symbol\d   variable PlayerDAO\n  location\d class com.girlkun.server.Client
+ERROR:138:cannot find symbol\n  symbol\d   method disconnect()\n  location\d variable session of type com.girlkun.server.io.MySession
+ERROR:168:cannot find symbol\n  symbol\d   variable GirlkunSessionManager\n  location\d class com.girlkun.server.Client
+ERROR:169:cannot find symbol\n  symbol\d   variable GirlkunSessionManager\n  location\d class com.girlkun.server.Client
+ERROR:170:cannot find symbol\n  symbol\d   variable GirlkunSessionManager\n  location\d class com.girlkun.server.Client
+ERROR:171:cannot find symbol\n  symbol\d   variable GirlkunSessionManager\n  location\d class com.girlkun.server.Client
+ERROR:173:cannot find symbol\n  symbol\d   variable GirlkunSessionManager\n  location\d class com.girlkun.server.Client
+ERROR:181:cannot find symbol\n  symbol\d   variable GirlkunSessionManager\n  location\d class com.girlkun.server.Client
+ERROR:181:cannot find symbol\n  symbol\d   class ISession\n  location\d class com.girlkun.server.Client
+ERROR:206:cannot find symbol\n  symbol\d   variable GirlkunSessionManager\n  location\d class com.girlkun.server.Client

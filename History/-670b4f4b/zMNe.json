@@ -1,0 +1,5 @@
+{
+    "redhat.telemetry.enabled": true,
+    "jdk.telemetry.enabled": true,
+    "workbench.secondarySideBar.defaultVisibility": "hidden"
+}

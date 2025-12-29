@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="duan1.css">
+    <title>tên trang web</title>
+
+</head>
+<body>
+    <h1>tiêu đề</h1>
+    <p>đoạn văn</p>
+    <p>
+        Lorem ipsum dolor sit amet.<br>
+        Lorem ipsum dolor sit amet.<br>
+        Soluta officia vitae nesciunt ab.<br>
+        <!-- <br> xuống dòng -->
+    </p>
+    <p>
+        <b>Lorem ipsum dolor sit amet.</b><br>
+        <!-- strong -->
+        <!-- in đậm bold -->
+         <i>Lorem ipsum dolor sit amet.</i><br>
+         <!-- <em> -->
+        <!-- in nghiêng italic -->
+         <u>Lorem ipsum dolor sit amet.</u><br>
+        <!-- gạch chân underline -->
+        <mark style="background-color: rgb(112, 119, 214);" >Lorem ipsum dolor sit amet.</mark><br>
+        <!-- đánh dấu highlight -->
+        
+    </p>
+    <table>
+        <ol>
+            <li>mục 1</li>
+            <li>mục 2</li>
+            <li>tạo danh sách có thứ tự</li>
+        </ol>
+        <!-- có thứ tự -->
+
+        <ul>
+            <li>mục 1</li>
+            <li>mục 2</li>
+            <li>danh sách không có thứ tự</li>
+        </ul>
+        <!-- không có thứ tự -->
+        <ul>
+            <li>ul>li*5 tạo ul có 5 dòng li</li>
+            <li>ul>li*5 tạo ul có 5 dòng li</li>
+            <li>ul>li*5 tạo ul có 5 dòng li</li>
+            <li>ul>li*5 tạo ul có 5 dòng li</li>
+            <li>ul>li*5 tạo ul có 5 dòng li</li>
+        </ul>
+        <!-- tạo 1 danh sách có thứ tự bắt đầu từ D  -->
+        <!-- ol>li*5 -->
+        <ol type="A" start="4">
+            <li>type="A" start="4"</li>
+            <li>type="A" start="4"</li>
+            <li>type="A" start="4"</li>
+            <li>type="A" start="4"</li>
+            <li>danh sách có thứ tự bằng A từ chữ D</li>
+        </ol>
+        
+        <!-- danh sách đảo ngược -->
+        <ol reversed>
+            <li>mục 1</li>
+            <li>mục 2</li>
+            <li>danh sách đảo ngược</li>
+        </ol>
+
+    </table>
+
+    <a href="https://www.youtube.com/">kích vào đây tới youtube</a><br>
+    <a href="#">kích vào đây tới đầu trang</a><br>
+    <a href="https://www.youtube.com/" target="self">Mở liên kết trong cùng tab/cửa sổ hiện tại</a><br>
+    <a href="https://www.youtube.com/" target="blank">Mở liên kết trong tab hoặc cửa sổ mới.</a><br>
+    <a href="tel:0123456789">Gọi số điện thoại chuyển hướng tới số điện thoại</a><br>
+    <a href="mailto:duydeptrai.bcc@gmail.com">gửi ì mel cho e nhớ</a><br>
+    <!-- dẫn tới cách liên kết -->
+
+    <img src="img/Meme-Hai-1-2.jpg" alt="thẻ img hiển thị hình ảnh alt thay thế"/>
+    <!-- ảnh -->
+
+    <img src="./img/Meme-Hai-1-2.jpg" alt="truy cập vào các thư mục cùng cấp ././"/>
+    <!-- truy cập các thư mục ./ tương đối; /tuyệt đối -->
+
+    <img src="img/phodang.jpg" alt="ảnh phở dang"/><br>
+
+
+
+    <label for="hoten">Họ và tên:</label>
+    <input type="text" id="hoten" name="hoten">
+    <!-- thẻ label liên kết với thẻ input thông qua thuộc tính for và id --><br>
+
+    <label>
+    Họ và tên:
+    <input type="text">
+    </label>
+    <!-- không cần dùng for và id vẫn liên kết được --><br>
+
+    
+
+<!-- TABLE tạo bảng -->
+    <h1>Thông tin sản phẩm</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>tên sản phẩm</th>
+                <th>giá</th>
+                <th>số lượng</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>iphone</td>
+                <td>20.000.000</td>
+                <td>5</td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <th>tổng cộng</th>
+                <th>100.000.000</th>
+            </tr>
+        </tfoot>
+        
+    </table>
+    <!-- table tạo bảng -->
+    <!-- tr tạo hàng -->
+    <!-- th tạo cột tiêu đề -->
+    <!-- td tạo cột dữ liệu -->
+    <!-- thead giúp trình đọc máy hiểu -->
+    <!-- tbody giúp trình đọc máy hiểu -->
+    <!-- tfoot giúp trình đọc máy hiểu -->
+    <br>
+    <br>
+    <br>
+    
+
+    <!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Học Web Chuẩn</title>
+<style>
+* { /* reset lại margin và padding cho các tag */
+    margin: 0;
+    padding: 0;
+}
+.tableStyle {
+    width: 100%;
+}
+.tableStyle td {
+    padding: 10px;
+}
+</style>
+</head>
+<body>
+<table class="tableStyle" border="1">
+    <tr>
+        <td colspan="2">td01 + td2</td>
+        <td>td03</td>
+        <td>td04</td>
+        <td>td05</td>
+    </tr>
+    <tr>
+        <td>td11</td>
+        <td>td12</td>
+        <td>td13</td>
+        <td>td14</td>
+        <td>td15</td>
+    </tr>
+    <tr>
+        <td rowspan="2">td1 + td6</td>
+        <td>td2</td>
+        <td>td3</td>
+        <td>td4</td>
+        <td>td5</td>
+    </tr>
+    <tr>
+        <td>td7</td>
+        <td>td8</td>
+        <td>td9</td>
+        <td>td10</td>
+    </tr>
+    
+    </table>
+    </body>
+    </html>
+    <!-- colspan chiếm n cột trên 1 dòng -->
+    <!-- rowspan chiếm n dòng trên 1 cột -->
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <h2>CÁCH DÙNG CSS</h2>
+    <!-- DÙNG CSS -->
+     <h1 style="color: blueviolet;">Học Web Chuẩn</h1>
+    <!-- style="color: blueviolet;" chuyển chữ sang màu tím-->
+    <a href="ctcon.html">Trang con 1</a><br>
+    <a href="ctcon2.html">Trang con 2</a><br>
+
+    <!-- có nhiều loại rel -->
+    <p style="color:yellow;text-align: center;"><em>stylesheet</em> dùng để liên kết css</p>
+    <p style="color:turquoise;text-align: center;><em>icon</em> dùng để liên kết icon</p>
+    <p style="color:orange;text-align: center;"><em>preconnect</em> dùng để tối ưu kết nối</p>
+    
+    
+    <!-- Inline : CSS nội tuyến - Ưu tiên 1 -->
+    <!-- Internal : CSS nội bộ - Ưu tiên 2 -->
+    <!-- External : CSS bên ngoài - Ưu tiên 3 -->
+    <!-- 2 và 3 loại nào mạnh hơn thì sẽ tái định nghĩa -->
+
+    <p style="opacity: 0; text-align:center">tạo độ trong suốt cho văn bản</p>
+    <!-- style opacity tạo độ trong suốt -->
+    <!-- = 0 vẫn chiếm giao diện di chuột qua vẫn có thể copy -->
+    <!-- /Thuộc tính	Kết quả
+    Hiển thị	        Vẫn chiếm chỗ trong layout
+    Chuột	            Vẫn hover, click được
+    Copy	                Vẫn copy được
+    Con	Tất cả con bên trong cũng bị mờ  -->
+
+     <p style="display:none;">ẩn đoạn văn bản này</p>
+    <!-- style display: none ẩn đoạn văn bản này -->
+     <!-- Đặc điểm
+    Thuộc tính	    Kết quả
+    Hiển thị	    ❌ Không
+    Chiếm chỗ	    ❌ Không
+    Hover / click	❌ Không
+    Copy	        ❌ Không
+    👉 Thường dùng khi:
+    Ẩn menu
+    Ẩn popup
+    Toggle bằng JS  -->
+
+    <p style="visibility:hidden">ẩn phần văn bản này</p>
+    <!-- style visibility:none ẩn phần văn bản này -->
+    <!-- Cách hoạt động của visibility:hidden
+    Thuộc tính	    Kết quả
+    Hiển thị	    ❌ Không
+    Chiếm chỗ	    ✅ Có
+    Hover / click	❌ Không
+    Copy	        ❌ Không
+
+    👉 Khác opacity: 0 ở chỗ:
+    Không tương tác
+    Không copy -->
+    
+    <!-- tạo ô tick -->
+     <input type="checkbox"> Tôi đồng ý với các điều khoản<br>
+
+
+</body>
+</html>

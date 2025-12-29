@@ -1,0 +1,17 @@
+ERROR:3:package com.girlkun.database does not exist
+ERROR:14:package com.girlkun.network.io does not exist
+ERROR:21:package org.json.simple does not exist
+ERROR:22:package org.json.simple does not exist
+ERROR:113:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.clan.Clan
+ERROR:115:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.clan.Clan
+ERROR:260:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.models.clan.Clan
+ERROR:260:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.models.clan.Clan
+ERROR:261:cannot find symbol\n  symbol\d   class JSONObject\n  location\d class com.girlkun.models.clan.Clan
+ERROR:261:cannot find symbol\n  symbol\d   class JSONObject\n  location\d class com.girlkun.models.clan.Clan
+ERROR:281:cannot find symbol\n  symbol\d   variable GirlkunDB\n  location\d class com.girlkun.models.clan.Clan
+ERROR:308:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.models.clan.Clan
+ERROR:308:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.models.clan.Clan
+ERROR:309:cannot find symbol\n  symbol\d   class JSONObject\n  location\d class com.girlkun.models.clan.Clan
+ERROR:309:cannot find symbol\n  symbol\d   class JSONObject\n  location\d class com.girlkun.models.clan.Clan
+ERROR:328:cannot find symbol\n  symbol\d   variable GirlkunDB\n  location\d class com.girlkun.models.clan.Clan
+ERROR:354:cannot find symbol\n  symbol\d   variable GirlkunDB\n  location\d class com.girlkun.models.clan.Clan

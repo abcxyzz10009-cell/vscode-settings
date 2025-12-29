@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Trang test</title>
+
+    <style>
+        h1 {
+            color: white;
+        }
+
+        h2 {
+            color: red;
+            font-style: italic;
+            font-family: 'Courier New', Courier, monospace;
+            text-transform: uppercase;
+            text-align: center;
+            background-color: black;
+        }
+
+        .xanhla {
+            color: green;
+        }
+
+        .duy {
+            color: blue;
+        }
+
+        body {
+            background-image: url("./img/noigigap.jpg");
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Xin chào</h1>
+    <h2 class="duy">Nội dung</h2>
+</body>
+</html>

@@ -1,0 +1,22 @@
+ERROR:6:package com.girlkun.database does not exist
+ERROR:8:package com.girlkun.result does not exist
+ERROR:24:cannot access com.girlkun.jdbc.daos.PlayerDAO\n  bad source file\d PlayerDAO.java\n    file does not contain class com.girlkun.jdbc.daos.PlayerDAO\n    Please remove or make sure it appears in the correct subdirectory of the sourcepath.
+ERROR:31:package com.girlkun.network.handler does not exist
+ERROR:32:package com.girlkun.network.io does not exist
+ERROR:33:package com.girlkun.network.session does not exist
+ERROR:44:cannot find symbol\n  symbol\d class IMessageHandler
+ERROR:56:cannot find symbol\n  symbol\d   class ISession\n  location\d class com.girlkun.server.Controller
+ERROR:56:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.server.Controller
+ERROR:548:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.server.Controller
+ERROR:572:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.server.Controller
+ERROR:623:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.server.Controller
+ERROR:651:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.server.Controller
+ERROR:696:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.server.Controller
+ERROR:55:method does not override or implement a method from a supertype
+ERROR:443:cannot find symbol\n  symbol\d   method getTypeChangeMap()\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:653:cannot find symbol\n  symbol\d   class GirlkunResultSet\n  location\d class com.girlkun.server.Controller
+ERROR:660:cannot find symbol\n  symbol\d   variable GirlkunDB\n  location\d class com.girlkun.server.Controller
+ERROR:676:cannot find symbol\n  symbol\d   variable PlayerDAO\n  location\d class com.girlkun.server.Controller
+ERROR:566:exception java.io.IOException is never thrown in body of corresponding try statement
+ERROR:617:exception java.io.IOException is never thrown in body of corresponding try statement
+ERROR:645:exception java.io.IOException is never thrown in body of corresponding try statement

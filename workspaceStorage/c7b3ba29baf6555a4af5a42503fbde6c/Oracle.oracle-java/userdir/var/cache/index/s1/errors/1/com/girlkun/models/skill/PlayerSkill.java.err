@@ -1,0 +1,2 @@
+ERROR:7:package com.girlkun.network.io does not exist
+ERROR:33:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.skill.PlayerSkill

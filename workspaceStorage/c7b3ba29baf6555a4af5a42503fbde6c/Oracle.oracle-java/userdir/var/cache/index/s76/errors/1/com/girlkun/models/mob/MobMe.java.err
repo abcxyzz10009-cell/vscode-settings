@@ -1,0 +1,10 @@
+ERROR:8:package com.girlkun.network.io does not exist
+ERROR:44:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.mob.MobMe
+ERROR:49:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.mob.MobMe
+ERROR:65:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.mob.MobMe
+ERROR:83:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.mob.MobMe
+ERROR:85:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.mob.MobMe
+ERROR:106:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.mob.MobMe
+ERROR:108:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.mob.MobMe
+ERROR:118:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.mob.MobMe
+ERROR:120:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.models.mob.MobMe

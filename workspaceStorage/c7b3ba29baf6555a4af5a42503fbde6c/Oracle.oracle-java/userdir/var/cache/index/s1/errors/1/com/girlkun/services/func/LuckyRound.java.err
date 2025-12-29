@@ -1,0 +1,9 @@
+ERROR:5:package com.girlkun.network.io does not exist
+ERROR:55:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.LuckyRound
+ERROR:37:cannot find symbol\n  symbol\d   method setTypeLuckyRound(byte)\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:38:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.LuckyRound
+ERROR:40:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.LuckyRound
+ERROR:59:cannot find symbol\n  symbol\d   method getTypeLuckyRound()\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:68:cannot find symbol\n  symbol\d   method getTypeLuckyRound()\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:109:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.LuckyRound
+ERROR:111:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.func.LuckyRound

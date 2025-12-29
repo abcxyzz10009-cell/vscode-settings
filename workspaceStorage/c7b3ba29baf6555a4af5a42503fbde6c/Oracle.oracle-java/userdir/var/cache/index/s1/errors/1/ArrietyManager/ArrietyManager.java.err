@@ -1,0 +1,9 @@
+ERROR:9:package io.reactivex.rxjava3.core does not exist
+ERROR:10:package io.reactivex.rxjava3.disposables does not exist
+ERROR:11:package io.reactivex.rxjava3.disposables does not exist
+ERROR:12:package io.reactivex.rxjava3.schedulers does not exist
+ERROR:36:cannot find symbol\n  symbol\d   class CompositeDisposable\n  location\d class ArrietyManager.ArrietyManager
+ERROR:24:cannot find symbol\n  symbol\d   class CompositeDisposable\n  location\d class ArrietyManager.ArrietyManager
+ERROR:40:cannot find symbol\n  symbol\d   class Disposable\n  location\d class ArrietyManager.ArrietyManager
+ERROR:40:cannot find symbol\n  symbol\d   variable Observable\n  location\d class ArrietyManager.ArrietyManager
+ERROR:41:cannot find symbol\n  symbol\d   variable Schedulers\n  location\d class ArrietyManager.ArrietyManager

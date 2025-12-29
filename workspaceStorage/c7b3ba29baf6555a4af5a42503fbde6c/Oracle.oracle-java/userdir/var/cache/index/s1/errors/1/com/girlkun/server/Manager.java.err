@@ -1,0 +1,64 @@
+ERROR:6:package com.girlkun.database does not exist
+ERROR:56:package org.json.simple does not exist
+ERROR:57:package org.json.simple does not exist
+ERROR:58:package org.json.simple does not exist
+ERROR:177:cannot find symbol\n  symbol\d   class JSONValue\n  location\d class com.girlkun.server.Manager
+ERROR:177:cannot find symbol\n  symbol\d   class JSONValue\n  location\d class com.girlkun.server.Manager
+ERROR:178:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.server.Manager
+ERROR:179:cannot find symbol\n  symbol\d   class JSONObject\n  location\d class com.girlkun.server.Manager
+ERROR:182:cannot find symbol\n  symbol\d   variable GirlkunDB\n  location\d class com.girlkun.server.Manager
+ERROR:191:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.server.Manager
+ERROR:193:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.server.Manager
+ERROR:193:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.server.Manager
+ERROR:222:cannot find symbol\n  symbol\d   class JSONValue\n  location\d class com.girlkun.server.Manager
+ERROR:222:cannot find symbol\n  symbol\d   class JSONValue\n  location\d class com.girlkun.server.Manager
+ERROR:223:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.server.Manager
+ERROR:224:cannot find symbol\n  symbol\d   class JSONObject\n  location\d class com.girlkun.server.Manager
+ERROR:227:cannot find symbol\n  symbol\d   variable GirlkunDB\n  location\d class com.girlkun.server.Manager
+ERROR:236:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.server.Manager
+ERROR:238:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.server.Manager
+ERROR:238:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.server.Manager
+ERROR:306:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.server.Manager
+ERROR:308:cannot find symbol\n  symbol\d   class JSONObject\n  location\d class com.girlkun.server.Manager
+ERROR:383:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.server.Manager
+ERROR:392:cannot find symbol\n  symbol\d   class JSONObject\n  location\d class com.girlkun.server.Manager
+ERROR:392:cannot find symbol\n  symbol\d   class JSONObject\n  location\d class com.girlkun.server.Manager
+ERROR:623:cannot find symbol\n  symbol\d   method getTemp()\n  location\d variable item of type com.girlkun.models.reward.ItemMobReward
+ERROR:624:cannot find symbol\n  symbol\d   method setRatio(int[])\n  location\d variable item of type com.girlkun.models.reward.ItemMobReward
+ERROR:626:cannot find symbol\n  symbol\d   method getTemp()\n  location\d variable item of type com.girlkun.models.reward.ItemMobReward
+ERROR:627:cannot find symbol\n  symbol\d   method setRatio(int[])\n  location\d variable item of type com.girlkun.models.reward.ItemMobReward
+ERROR:629:cannot find symbol\n  symbol\d   method getTemp()\n  location\d variable item of type com.girlkun.models.reward.ItemMobReward
+ERROR:630:cannot find symbol\n  symbol\d   method setRatio(int[])\n  location\d variable item of type com.girlkun.models.reward.ItemMobReward
+ERROR:640:cannot find symbol\n  symbol\d   method getTemp()\n  location\d variable item of type com.girlkun.models.reward.ItemMobReward
+ERROR:641:cannot find symbol\n  symbol\d   method getGoldReward()\n  location\d variable mobReward of type com.girlkun.models.reward.MobReward
+ERROR:643:cannot find symbol\n  symbol\d   method getItemReward()\n  location\d variable mobReward of type com.girlkun.models.reward.MobReward
+ERROR:653:cannot find symbol\n  symbol\d   method getOption()\n  location\d variable item of type com.girlkun.models.reward.ItemMobReward
+ERROR:757:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.server.Manager
+ERROR:764:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.server.Manager
+ERROR:764:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.server.Manager
+ERROR:780:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.server.Manager
+ERROR:787:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.server.Manager
+ERROR:787:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.server.Manager
+ERROR:797:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.server.Manager
+ERROR:802:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.server.Manager
+ERROR:802:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.server.Manager
+ERROR:830:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.server.Manager
+ERROR:830:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.server.Manager
+ERROR:830:cannot find symbol\n  symbol\d   variable JSONValue\n  location\d class com.girlkun.server.Manager
+ERROR:832:cannot find symbol\n  symbol\d   class JSONObject\n  location\d class com.girlkun.server.Manager
+ERROR:832:cannot find symbol\n  symbol\d   class JSONObject\n  location\d class com.girlkun.server.Manager
+ERROR:841:cannot find symbol\n  symbol\d   class JSONArray\n  location\d class com.girlkun.server.Manager
+ERROR:841:cannot find symbol\n  symbol\d   variable JSONValue\n  location\d class com.girlkun.server.Manager
+ERROR:843:cannot find symbol\n  symbol\d   class JSONObject\n  location\d class com.girlkun.server.Manager
+ERROR:843:cannot find symbol\n  symbol\d   class JSONObject\n  location\d class com.girlkun.server.Manager
+ERROR:898:cannot find symbol\n  symbol\d   method builder()\n  location\d class com.girlkun.models.matches.TOP
+ERROR:901:cannot find symbol\n  symbol\d   method setInfo1(java.lang.String)\n  location\d variable top of type com.girlkun.models.matches.TOP
+ERROR:902:cannot find symbol\n  symbol\d   method setInfo2(java.lang.String)\n  location\d variable top of type com.girlkun.models.matches.TOP
+ERROR:905:cannot find symbol\n  symbol\d   method setInfo1(java.lang.String)\n  location\d variable top of type com.girlkun.models.matches.TOP
+ERROR:906:cannot find symbol\n  symbol\d   method setInfo2(java.lang.String)\n  location\d variable top of type com.girlkun.models.matches.TOP
+ERROR:909:cannot find symbol\n  symbol\d   method setInfo1(java.lang.String)\n  location\d variable top of type com.girlkun.models.matches.TOP
+ERROR:910:cannot find symbol\n  symbol\d   method setInfo2(java.lang.String)\n  location\d variable top of type com.girlkun.models.matches.TOP
+ERROR:913:cannot find symbol\n  symbol\d   method setInfo1(java.lang.String)\n  location\d variable top of type com.girlkun.models.matches.TOP
+ERROR:914:cannot find symbol\n  symbol\d   method setInfo2(java.lang.String)\n  location\d variable top of type com.girlkun.models.matches.TOP
+ERROR:917:cannot find symbol\n  symbol\d   method setInfo1(java.lang.String)\n  location\d variable top of type com.girlkun.models.matches.TOP
+ERROR:918:cannot find symbol\n  symbol\d   method setInfo2(java.lang.String)\n  location\d variable top of type com.girlkun.models.matches.TOP

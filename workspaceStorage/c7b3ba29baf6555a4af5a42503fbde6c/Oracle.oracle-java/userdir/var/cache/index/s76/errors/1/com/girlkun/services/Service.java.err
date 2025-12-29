@@ -1,0 +1,134 @@
+ERROR:3:package com.girlkun.database does not exist
+ERROR:31:package com.girlkun.network.io does not exist
+ERROR:32:package com.girlkun.network.session does not exist
+ERROR:33:package com.girlkun.network.session does not exist
+ERROR:34:package com.girlkun.result does not exist
+ERROR:162:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:166:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:170:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:188:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:215:cannot find symbol\n  symbol\d   class Session\n  location\d class com.girlkun.services.Service
+ERROR:215:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:246:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:330:cannot find symbol\n  symbol\d   class ISession\n  location\d class com.girlkun.services.Service
+ERROR:900:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:906:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:912:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1751:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:62:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:64:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:70:cannot find symbol\n  symbol\d   method getId_player()\n  location\d variable top of type com.girlkun.models.matches.TOP
+ERROR:80:cannot find symbol\n  symbol\d   method getInfo1()\n  location\d variable top of type com.girlkun.models.matches.TOP
+ERROR:81:cannot find symbol\n  symbol\d   method getInfo2()\n  location\d variable top of type com.girlkun.models.matches.TOP
+ERROR:91:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:93:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:110:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:112:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:142:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:144:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:234:cannot find symbol\n  symbol\d   class GirlkunResultSet\n  location\d class com.girlkun.services.Service
+ERROR:234:cannot find symbol\n  symbol\d   variable GirlkunDB\n  location\d class com.girlkun.services.Service
+ERROR:238:cannot find symbol\n  symbol\d   variable GirlkunDB\n  location\d class com.girlkun.services.Service
+ERROR:265:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:280:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:295:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:297:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:306:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:310:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:321:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:323:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:332:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:334:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:488:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:490:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:498:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:500:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:639:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:641:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:652:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:654:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:664:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:666:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:726:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:728:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:755:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:757:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:779:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:901:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:901:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:907:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:907:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:913:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:913:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1089:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1095:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1118:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1121:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1142:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1169:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1171:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1191:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1193:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1204:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1206:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1219:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1221:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1231:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1233:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1242:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1244:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1254:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1255:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1271:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1273:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1292:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1294:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1310:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1312:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1326:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1328:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1356:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1359:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1366:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1375:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1382:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1389:cannot find symbol\n  symbol\d   method setLastTimeChangeFlag(long)\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:1397:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1399:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1414:cannot find symbol\n  symbol\d   method getLastTimeChangeFlag()\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:1417:cannot find symbol\n  symbol\d   method getLastTimeChangeFlag()\n  location\d variable iDMark of type com.girlkun.models.player.IDMark
+ERROR:1426:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1428:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1448:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1450:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1466:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1468:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1481:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1483:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1498:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1500:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1574:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1589:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1591:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1603:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1605:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1623:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1625:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1634:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1636:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1658:cannot find symbol\n  symbol\d   variable GirlkunDB\n  location\d class com.girlkun.services.Service
+ERROR:1677:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1679:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1687:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1689:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1702:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1704:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1713:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1715:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1725:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1727:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1741:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1743:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1776:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1778:cannot find symbol\n  symbol\d   class Message\n  location\d class com.girlkun.services.Service
+ERROR:1261:exception java.io.IOException is never thrown in body of corresponding try statement

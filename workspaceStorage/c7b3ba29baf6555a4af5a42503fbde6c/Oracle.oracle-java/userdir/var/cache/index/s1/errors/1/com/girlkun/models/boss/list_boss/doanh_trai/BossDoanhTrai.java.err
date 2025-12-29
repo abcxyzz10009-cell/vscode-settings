@@ -1,0 +1,4 @@
+ERROR:33:cannot find symbol\n  symbol\d   method getClan()\n  location\d variable doanhTrai of type com.girlkun.models.map.doanhtrai.DoanhTrai
+ERROR:37:cannot find symbol\n  symbol\d   method getName()\n  location\d variable data of type com.girlkun.models.boss.BossData
+ERROR:38:cannot find symbol\n  symbol\d   method getGender()\n  location\d variable data of type com.girlkun.models.boss.BossData
+ERROR:42:cannot find symbol\n  symbol\d   method getClan()\n  location\d variable doanhTrai of type com.girlkun.models.map.doanhtrai.DoanhTrai
